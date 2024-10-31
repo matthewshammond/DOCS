@@ -69,4 +69,5 @@ urlpatterns = [
     path('import/db/', views.import_db, name='import_db'),
     path('export/program-kml/<str:program_code>/', views.export_program_kml, name='export_program_kml'),
     path('export/county-names/<str:state_name>/', views.export_county_names, name='export_county_names'),
+    path('export/avionics/', views.export_avionics, name='export_avionics'),
 ]

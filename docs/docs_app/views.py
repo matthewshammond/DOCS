@@ -1016,3 +1016,44 @@ def generate_program_kml(program_code):
         return kml_content
     except ProgramInfo.DoesNotExist:
         return ""
+
+@login_required
+def export_avionics(request):
+    selected_program_id = request.session.get("selected_program_id")
+    if not selected_program_id:
+        messages.error(request, "No program selected.")
+        return redirect("view_hospitals")
+
+    hospitals = Hospital.objects.filter(program_id=selected_program_id).order_by("hospital_id")
+    
+    def to_decimal_degrees(deg, min, direction):
+        dd = float(deg) + (float(min) / 60)
+        if direction in ["S", "W"]:
+            dd = -dd
+        return dd
+
+    response = HttpResponse(content_type='text/plain')
+    response['Content-Disposition'] = 'attachment; filename="user.wpt"'
+    
+    for hospital in hospitals:
+        # Convert coordinates to decimal degrees
+        lat_parts = hospital.latitude.split()
+        long_parts = hospital.longitude.split()
+        lat_dd = to_decimal_degrees(lat_parts[0], lat_parts[1], lat_parts[2])
+        long_dd = to_decimal_degrees(long_parts[0], long_parts[1], long_parts[2])
+        
+        # Build comment string (city state faa_identifier)
+        comment_parts = []
+        if hospital.city:
+            comment_parts.append(hospital.city.upper())
+        if hospital.state:
+            comment_parts.append(hospital.state.upper())
+        if hospital.faa_identifier:
+            comment_parts.append(hospital.faa_identifier.upper())
+        comment = " ".join(comment_parts)
+        
+        # Format the line with proper decimal places
+        line = f"{hospital.hospital_id.upper()},{comment},{lat_dd:.8f},{long_dd:.8f}\n"
+        response.write(line)
+    
+    return response

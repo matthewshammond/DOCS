@@ -54,6 +54,7 @@
                 <ul class="dropdown-menu" aria-labelledby="exportDropdown">
                   <li><a class="dropdown-item" href="{% url 'export_cad_csv' %}">CAD</a></li>
                   <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#foreflightModal">ForeFlight</a></li>
+                  <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#avionicsModal">Avionics</a></li>
                 </ul>
               </div>
               <a class="nav-item nav-link" href="#" data-bs-toggle="modal" data-bs-target="#importModal">Import</a>
@@ -476,6 +477,41 @@
                     '<div class="alert alert-danger">Error during export. Please try again.</div>';
             });
         });
+    });
+    </script>
+
+    <!-- Add this new modal at the bottom of the file -->
+    <div class="modal fade" id="avionicsModal" tabindex="-1" aria-labelledby="avionicsModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="avionicsModalLabel">Avionics Export</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p class="text-warning">Waypoint file for Garmin 650/750 only!</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="confirmAvionicsExport">Continue</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Update the JavaScript for the Avionics export -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const confirmAvionicsExport = document.getElementById('confirmAvionicsExport');
+        const avionicsModal = document.getElementById('avionicsModal');
+        const bsAvionicsModal = new bootstrap.Modal(avionicsModal);
+        
+        if (confirmAvionicsExport) {
+            confirmAvionicsExport.addEventListener('click', function() {
+                bsAvionicsModal.hide(); // Close the modal
+                window.location.href = "{% url 'export_avionics' %}";
+            });
+        }
     });
     </script>
 
