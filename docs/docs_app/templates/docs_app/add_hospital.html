@@ -1,0 +1,127 @@
+{% extends "base.html" %} 
+{% block title %} 
+Add Hospital 
+{% endblock title %} 
+{% block content %}
+<h1>Add Hospital</h1>
+
+<form method="post">
+  {% csrf_token %}
+
+  <ul>
+    <label for="hospital_id">Hospital ID (3-5 characters):</label>
+    {{ form.hospital_id }} {% if form.hospital_id.errors %}
+    <div class="error">{{ form.hospital_id.errors }}</div>
+    {% endif %}
+  </ul>
+
+  <ul>
+    <label for="hospital_name">Hospital Name:</label>
+    {{ form.hospital_name }} {% if form.hospital_name.errors %}
+    <div class="error">{{ form.hospital_name.errors }}</div>
+    {% endif %}
+  </ul>
+
+  <ul>
+    <label for="city">City:</label>
+    {{ form.city }} {% if form.city.errors %}
+    <div class="error">{{ form.city.errors }}</div>
+    {% endif %}
+  </ul>
+
+  <ul>
+    <label for="state">State:</label>
+    {{ form.state }} {% if form.state.errors %}
+    <div class="error">{{ form.state.errors }}</div>
+    {% endif %}
+  </ul>
+
+  <script type="text/javascript">
+    window.onload = function () {
+      document
+        .getElementById("id_airport")
+        .addEventListener("change", function () {
+          if (this.checked) {
+            document.getElementById("faa-identifier").style.display = "block";
+          } else {
+            document.getElementById("faa-identifier").style.display = "none";
+          }
+        });
+    };
+  </script>
+
+  <ul>
+    <label for="airport">Does this have an FAA Identifier?</label>
+    {{ form.airport }} {% if form.airport.errors %}
+    <div class="error">{{ form.airport.errors }}</div>
+    {% endif %}
+  </ul>
+
+  <ul id="faa-identifier" style="display: none">
+    <label for="faa_identifier">FAA Identifier:</label>
+    {{ form.faa_identifier }} {% if form.faa_identifier.errors %}
+    <div class="error">{{ form.faa_identifier.errors }}</div>
+    {% endif %}
+  </ul>
+
+  <style>
+    label {
+      display: inline-block;
+      vertical-align: top;
+      margin-top: 1px; /* Adjust the margin to control the spacing */
+    }
+
+    textarea {
+      resize: both; /* Allow both horizontal and vertical resizing */
+      overflow: auto;
+    }
+  </style>
+
+  <ul>
+    <label for="description">Description (Optional):</label>
+    {{ form.description }} {% if form.description.errors %}
+    <div class="error">{{ form.description.errors }}</div>
+    {% endif %}
+  </ul>
+
+  <fieldset>
+    <legend>Latitude (xx xx.xx N/S)</legend>
+    <label for="lat_deg">Degrees:</label>
+    {{ form.lat_deg }} {% if form.lat_deg.errors %}
+    <div class="error">{{ form.lat_deg.errors }}</div>
+    {% endif %}
+
+    <label for="lat_min">Minutes:</label>
+    {{ form.lat_min }} {% if form.lat_min.errors %}
+    <div class="error">{{ form.lat_min.errors }}</div>
+    {% endif %}
+
+    <label for="lat_ns">Direction:</label>
+    {{ form.lat_ns }} {% if form.lat_ns.errors %}
+    <div class="error">{{ form.lat_ns.errors }}</div>
+    {% endif %}
+  </fieldset>
+
+  <fieldset>
+    <legend>Longitude (xxx xx.xx E/W)</legend>
+    <label for="long_deg">Degrees:</label>
+    {{ form.long_deg }} {% if form.long_deg.errors %}
+    <div class="error">{{ form.long_deg.errors }}</div>
+    {% endif %}
+
+    <label for="long_min">Minutes:</label>
+    {{ form.long_min }} {% if form.long_min.errors %}
+    <div class="error">{{ form.long_min.errors }}</div>
+    {% endif %}
+
+    <label for="long_ew">Direction:</label>
+    {{ form.long_ew }} {% if form.long_ew.errors %}
+    <div class="error">{{ form.long_ew.errors }}</div>
+    {% endif %}
+  </fieldset>
+
+  <button type="submit" class="btn btn-secondary btn-lg btn-block">
+    Add Hospital
+  </button>
+</form>
+{% endblock %}

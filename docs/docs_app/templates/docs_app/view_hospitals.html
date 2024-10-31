@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block title %}
+    Hospitals List
+{% endblock title %}
+{% block content %}
+    {% if show_program_selector %}
+        <!-- Program Selector -->
+        <div class="d-flex align-items-center mb-3">
+            <div style="width: 500px;">
+                <select class="form-select" id="program-select">
+                    {% for program in programs %}
+                        <option value="{{ program.id }}" {% if program.id == selected_program.id %}selected{% endif %}>
+                            {{ program.program_name }} ({{ program.program_code }})
+                        </option>
+                    {% endfor %}
+                </select>
+            </div>
+            <button class="btn btn-dark ms-2" id="switch-program-btn">Switch Program</button>
+        </div>
+    {% endif %}
+
+    {% if selected_program %}
+        <h1>{{ selected_program.program_name }} ({{ selected_program.program_code }})</h1>
+    {% else %}
+        <h1>No Program Selected</h1>
+    {% endif %}
+
+    <!-- Replace the existing table with this styled version -->
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Hospital ID</th>
+          <th>Hospital Name</th>
+          <th>City</th>
+          <th>State</th>
+          <th>FAA Identifier</th>
+          <th>Airport</th>
+          <th>Latitude</th>
+          <th>Longitude</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for hospital in hospitals %}
+        <tr>
+          <td>{{ hospital.hospital_id }}</td>
+          <td>{{ hospital.hospital_name }}</td>
+          <td>{{ hospital.city }}</td>
+          <td>{{ hospital.state }}</td>
+          <td>{{ hospital.faa_identifier }}</td>
+          <td>{{ hospital.airport|yesno:"Yes,No" }}</td>
+          <td>{{ hospital.latitude }}</td>
+          <td>{{ hospital.longitude }}</td>
+          <td>
+            <a href="{% url 'edit_hospital' hospital.hospital_id %}" class="btn btn-sm btn-dark">Edit</a>
+            <a href="{% url 'delete_hospital' hospital.hospital_id %}" class="btn btn-sm btn-danger">Delete</a>
+          </td>
+        </tr>
+        {% empty %}
+        <tr>
+          <td colspan="9">No hospitals found.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <!-- hospital_app/templates/hospital_app/view_hospitals.html -->
+    {% if messages %}
+        <ul class="messages">
+            {% for message in messages %}
+                <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endblock content %}
+

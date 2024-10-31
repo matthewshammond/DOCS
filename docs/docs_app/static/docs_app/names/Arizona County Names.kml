@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Arizona County Names</name>
+	<description>Arizona County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>AZ_County_Greenlee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Greenlee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.240235217452,33.2152318246108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Maricopa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Maricopa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-112.491475053075,33.3490094646453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Navajo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Navajo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-110.321407994424,35.3996483036024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Apache</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Apache County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.48882064715,35.3955315013729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Coconino</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Coconino County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.770523437689,35.83870743224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Cochise</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Cochise County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.751174692455,31.8795696523165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Yuma</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Yuma County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-113.905635221498,32.769476946299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_La_Paz</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">La Paz County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-113.981494556584,33.7294041756681,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Pinal</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Pinal County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.344762269774,32.9044021118069,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Graham</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Graham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.88746738726,32.9325969879475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Mohave</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Mohave County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-113.757893313257,35.7040806391491,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Yavapai</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Yavapai County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-112.553719998297,34.5998039613173,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Gila</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Gila County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-110.811548658399,33.7996504782673,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Pima</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Pima County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.789914338315,32.0974387485612,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AZ_County_Santa_Cruz</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arizona_Counties">
+				<SimpleData name="State">Arizona</SimpleData>
+				<SimpleData name="County">Santa Cruz County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-110.846537012139,31.5259501681772,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

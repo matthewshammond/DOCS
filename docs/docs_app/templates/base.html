@@ -1,0 +1,492 @@
+<!-- hospital_app/templates/base.html -->
+{% load static %}
+{% load custom_filters %}
+<!doctype html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{% static 'docs_app/favicon/apple-touch-icon.png' %}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{% static 'docs_app/favicon/favicon-32x32.png' %}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{% static 'docs_app/favicon/favicon-16x16.png' %}">
+    <link rel="manifest" href="{% static 'docs_app/favicon/site.webmanifest' %}">
+    <link rel="mask-icon" href="{% static 'docs_app/favicon/safari-pinned-tab.svg' %}" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{% static 'docs_app/main.css' %}"
+    />
+
+    <title>{% block title %}Dispatching Operational Chopper Software{% endblock %}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+        <div class="container">
+          <a class="navbar-brand mr-4" href="{% url 'view_hospitals' %}"><img src="{% static 'docs_app/docs2.png' %}" alt="Dispatching Operational Chopper Software" height="30"></a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarToggle"
+            aria-controls="navbarToggle"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarToggle">
+            <div class="navbar-nav mr-auto">
+              <a class="nav-item nav-link" href="{% url 'view_hospitals' %}"
+                >Home</a
+              >
+              <a class="nav-item nav-link" href="{% url 'add_hospital' %}"
+                >Add</a
+              >
+              <!-- Dropdown for Export -->
+              <div class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="exportDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Export
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="exportDropdown">
+                  <li><a class="dropdown-item" href="{% url 'export_cad_csv' %}">CAD</a></li>
+                  <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#foreflightModal">ForeFlight</a></li>
+                </ul>
+              </div>
+              <a class="nav-item nav-link" href="#" data-bs-toggle="modal" data-bs-target="#importModal">Import</a>
+
+            </div>
+            <!-- Navbar Right Side -->
+            <div class="navbar-nav ms-auto">
+              <div class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      {% if user.userprofile.profile_picture %}
+                          <img src="{{ user.userprofile.profile_picture.url }}" alt="Profile Picture" class="rounded-circle" style="width: 30px; height: 30px; object-fit: cover;">
+                      {% endif %}
+                      {% if user.username == 'leadpilot' %}
+                          Lead Pilot
+                      {% else %}
+                          {{ user.first_name|default:user.username }}
+                      {% endif %}
+                  </a>
+                  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
+                      <li><a class="dropdown-item" href="{% url 'account' %}">Account</a></li>
+                      {% if user.is_staff or user|has_group:"Admin" %}
+                          <li><a class="dropdown-item" href="{% url 'settings' %}">Settings</a></li>
+                          {% if user.is_staff %}
+                              <li><a class="dropdown-item" href="{% url 'admin:index' %}">Admin</a></li>
+                          {% endif %}
+                      {% endif %}
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="{% url 'logout' %}">Log Out</a></li>
+                  </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <div class="container">{% block content %} {% endblock %}</div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Update the Import Modal section -->
+    <div class="modal fade" id="importModal" tabindex="-1" role="dialog" aria-labelledby="importModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="importModalLabel">Import Hospitals</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- Program Selection -->
+                    <div class="form-group mb-3">
+                        <label for="import_program">Select Program:</label>
+                        <select id="import_program" class="form-control">
+                            {% if user_programs.count == 1 %}
+                                {% with program=user_programs.first %}
+                                    <option value="{{ program.id }}" selected>{{ program.program_name }} ({{ program.program_code }})</option>
+                                {% endwith %}
+                            {% else %}
+                                <option value="">Select a program...</option>
+                                {% for program in user_programs %}
+                                    <option value="{{ program.id }}">{{ program.program_name }} ({{ program.program_code }})</option>
+                                {% endfor %}
+                            {% endif %}
+                        </select>
+                    </div>
+
+                    <!-- Create New Program Form (initially hidden) -->
+                    {% if user.is_staff %}
+                        <div id="newProgramForm" class="mb-3" style="display: none;">
+                            <div class="form-group">
+                                <label for="new_program_name">New Program Name:</label>
+                                <input type="text" id="new_program_name" class="form-control" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="new_program_code">Program Code (3 characters):</label>
+                                <input type="text" id="new_program_code" class="form-control" maxlength="3" required>
+                            </div>
+                            <button type="button" id="createProgramBtn" class="btn btn-success">Create Program</button>
+                        </div>
+
+                        <!-- Create New Program Button -->
+                        <button type="button" id="showNewProgramForm" class="btn btn-secondary mb-3">Create New Program</button>
+                    {% endif %}
+
+                    <!-- File Selection -->
+                    <div class="form-group">
+                        <label for="csvFile">Select CSV File:</label>
+                        <input type="file" class="form-control-file" id="csvFile" accept=".csv">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" id="importButton">Import</button>
+                </div>
+                <div id="import-message" class="mx-3"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Update the Import JavaScript -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const importButton = document.getElementById('importButton');
+        const fileInput = document.getElementById('csvFile');
+        const programSelect = document.getElementById('import_program');
+        
+        {% if user.is_staff %}
+            const showNewProgramFormBtn = document.getElementById('showNewProgramForm');
+            const newProgramForm = document.getElementById('newProgramForm');
+            const createProgramBtn = document.getElementById('createProgramBtn');
+            
+            showNewProgramFormBtn.addEventListener('click', function() {
+                newProgramForm.style.display = newProgramForm.style.display === 'none' ? 'block' : 'none';
+            });
+            
+            createProgramBtn.addEventListener('click', function() {
+                const programName = document.getElementById('new_program_name').value;
+                const programCode = document.getElementById('new_program_code').value;
+                
+                if (!programName || !programCode) {
+                    alert('Please fill in all fields');
+                    return;
+                }
+                
+                const formData = new FormData();
+                formData.append('program_name', programName);
+                formData.append('program_code', programCode);
+                formData.append('csrfmiddlewaretoken', '{{ csrf_token }}');
+                
+                fetch('{% url "create_program_ajax" %}', {
+                    method: 'POST',
+                    body: formData,
+                    headers: {
+                        'X-Requested-With': 'XMLHttpRequest'
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        const option = document.createElement('option');
+                        option.value = data.program_id;
+                        option.textContent = `${programName} (${programCode})`;
+                        programSelect.appendChild(option);
+                        programSelect.value = data.program_id;
+                        
+                        // Clear and hide the form
+                        document.getElementById('new_program_name').value = '';
+                        document.getElementById('new_program_code').value = '';
+                        newProgramForm.style.display = 'none';
+                    } else {
+                        alert(data.message || 'Error creating program');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Error creating program');
+                });
+            });
+        {% endif %}
+        
+        importButton.addEventListener('click', function() {
+            if (!fileInput.files.length) {
+                alert('Please select a file');
+                return;
+            }
+            
+            const programId = programSelect.value;
+            if (!programId) {
+                alert('Please select a program');
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('csv_file', fileInput.files[0]);
+            formData.append('program_id', programId);
+            formData.append('csrfmiddlewaretoken', '{{ csrf_token }}');
+            
+            fetch('{% url "import_csv" %}', {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.redirect) {
+                    window.location.href = data.redirect;
+                } else {
+                    document.getElementById('import-message').innerHTML = 
+                        `<div class="alert alert-${data.success ? 'success' : 'danger'}">${data.message}</div>`;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('import-message').innerHTML = 
+                    '<div class="alert alert-danger">An error occurred during import</div>';
+            });
+        });
+    });
+    </script>
+
+    <!-- Add this new modal for Counties export -->
+    <div class="modal fade" id="countiesModal" tabindex="-1" role="dialog" aria-labelledby="countiesModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="countiesModalLabel">Export County Data</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="countySelect">Select State:</label>
+                        <select id="countySelect" class="form-control">
+                            <option value="">Loading states...</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" id="exportCountyButton">Export</button>
+                </div>
+                <div id="county-export-message" class="mx-3"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add this JavaScript for the Counties functionality -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Load available counties when the modal is shown
+        $('#countiesModal').on('show.bs.modal', function () {
+            fetch('{% url "get_counties" %}')
+                .then(response => response.json())
+                .then(data => {
+                    const select = document.getElementById('countySelect');
+                    select.innerHTML = '';
+                    
+                    // Add placeholder option
+                    const placeholder = document.createElement('option');
+                    placeholder.value = '';
+                    placeholder.textContent = 'Select a state...';
+                    select.appendChild(placeholder);
+                    
+                    if (data.error) {
+                        document.getElementById('county-export-message').innerHTML = 
+                            `<div class="alert alert-danger">${data.error}</div>`;
+                        return;
+                    }
+                    
+                    if (!data.counties || data.counties.length === 0) {
+                        document.getElementById('county-export-message').innerHTML = 
+                            '<div class="alert alert-warning">No county files found</div>';
+                        return;
+                    }
+                    
+                    // Add options for each state
+                    data.counties.forEach(state => {
+                        const option = document.createElement('option');
+                        option.value = state;
+                        option.textContent = state;
+                        select.appendChild(option);
+                    });
+                    
+                    // Clear any previous error messages
+                    document.getElementById('county-export-message').innerHTML = '';
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('county-export-message').innerHTML = 
+                        '<div class="alert alert-danger">Error loading states. Please try again.</div>';
+                });
+        });
+
+        // Handle export button click
+        document.getElementById('exportCountyButton').addEventListener('click', function() {
+            const selectedState = document.getElementById('countySelect').value;
+            
+            if (!selectedState) {
+                alert('Please select a state');
+                return;
+            }
+
+            // Trigger download
+            window.location.href = `/export/county/${selectedState}/`;
+        });
+    });
+    </script>
+
+    <!-- Add this script block just before the closing </body> tag -->
+    <script>
+        // Program switching functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const switchProgramBtn = document.getElementById('switch-program-btn');
+            const programSelect = document.getElementById('program-select');
+
+            if (switchProgramBtn && programSelect) {
+                switchProgramBtn.addEventListener('click', function() {
+                    const selectedProgramId = programSelect.value;
+                    if (selectedProgramId) {
+                        const formData = new FormData();
+                        formData.append('program_id', selectedProgramId);
+                        formData.append('csrfmiddlewaretoken', '{{ csrf_token }}');
+                        formData.append('switch_program', 'true');
+
+                        fetch('{% url "view_hospitals" %}', {
+                            method: 'POST',
+                            body: formData,
+                            headers: {
+                                'X-Requested-With': 'XMLHttpRequest'
+                            }
+                        }).then(response => {
+                            if (response.ok) {
+                                window.location.reload();
+                            }
+                        }).catch(error => {
+                            console.error('Error:', error);
+                        });
+                    }
+                });
+            }
+        });
+    </script>
+
+    <!-- Add the modal template at the bottom of the file -->
+    {% include 'docs_app/foreflight_export_modal.html' %}
+
+    <!-- Update the ForeFlight export JavaScript -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const foreflightExportButton = document.getElementById('foreflightExportButton');
+        
+        async function downloadFile(url, filename) {
+            try {
+                const response = await fetch(url);
+                const blob = await response.blob();
+                const downloadUrl = window.URL.createObjectURL(blob);
+                const link = document.createElement('a');
+                link.href = downloadUrl;
+                link.download = filename;
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                window.URL.revokeObjectURL(downloadUrl);
+                // Add a small delay between downloads
+                await new Promise(resolve => setTimeout(resolve, 500));
+            } catch (error) {
+                console.error(`Error downloading ${filename}:`, error);
+            }
+        }
+
+        async function handleIndividualDownloads(files) {
+            for (const file of files) {
+                await downloadFile(file.url, file.name);
+            }
+        }
+        
+        foreflightExportButton.addEventListener('click', function() {
+            const selectedPrograms = Array.from(document.querySelectorAll('.program-checkbox:checked'))
+                .map(cb => ({
+                    code: cb.value,
+                    name: cb.dataset.programName
+                }));
+            const selectedStates = Array.from(document.querySelectorAll('.state-checkbox:checked'))
+                .map(cb => cb.value);
+            const downloadOption = document.querySelector('input[name="downloadOption"]:checked').value;
+
+            // Only validate programs if no states are selected, and vice versa
+            if (selectedPrograms.length === 0 && selectedStates.length === 0) {
+                alert('Please select at least one program or state');
+                return;
+            }
+
+            // Create form data
+            const formData = new FormData();
+            formData.append('programs', JSON.stringify(selectedPrograms));
+            formData.append('states', JSON.stringify(selectedStates));
+            formData.append('download_option', downloadOption);
+            formData.append('csrfmiddlewaretoken', '{{ csrf_token }}');
+
+            // Send request
+            fetch('{% url "export_foreflight" %}', {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            })
+            .then(response => {
+                if (downloadOption === 'individual') {
+                    return response.json();
+                } else {
+                    return response.blob();
+                }
+            })
+            .then(data => {
+                if (downloadOption === 'individual') {
+                    // Handle individual file downloads sequentially
+                    handleIndividualDownloads(data.files);
+                } else {
+                    // Handle content pack download
+                    const blob = new Blob([data], { type: 'application/zip' });
+                    const url = window.URL.createObjectURL(blob);
+                    const link = document.createElement('a');
+                    link.href = url;
+                    link.download = `${selectedPrograms[0].code}.zip`;
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                    window.URL.revokeObjectURL(url);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('foreflight-export-message').innerHTML = 
+                    '<div class="alert alert-danger">Error during export. Please try again.</div>';
+            });
+        });
+    });
+    </script>
+
+  </body>
+</html>

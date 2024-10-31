@@ -1,0 +1,3353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Texas County Names</name>
+	<description>Texas County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>TX_County_Camp</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Camp County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.978510858625,32.9732625436813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Cottle</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Cottle County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.278781355208,34.0776358990987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Culberson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Culberson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.517261468955,31.4469565799098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hemphill</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hemphill County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.270627312932,35.8375578889927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Henderson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Henderson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.85351533136109,32.2118890099378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jim_Hogg</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jim Hogg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.69733083148901,27.0434221859095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Johnson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Johnson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.36655759691672,32.3789911199447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Madison</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Madison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.928417895119,30.965530971757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Montgomery</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Montgomery County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.50298966561192,30.300194275984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Sutton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Sutton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.538180478819,30.4983701710415,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Terrell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Terrell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.076500531554,30.2250123765365,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Titus</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Titus County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.9657438123098,33.216648670568,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Anderson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Anderson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.6524727254601,31.813291508514,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Aransas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Aransas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.9932082033198,28.1257917114469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Armstrong</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Armstrong County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.357367183293,34.964939332671,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Clay</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Clay County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.2085238869435,33.7855111398024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hidalgo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hidalgo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.18120266711551,26.3969204426792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Sabine</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Sabine County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.85169823257311,31.3432458856111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Throckmorton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Throckmorton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.2123516675035,33.1774962206174,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Blanco</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Blanco County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.3998734364702,30.2663841667067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Callahan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Callahan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.37349705874729,32.2976514928925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Cameron</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Cameron County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.5186127813857,26.133235482964,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Childress</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Childress County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.207615739226,34.5291467669378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jackson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jackson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.5776499404013,28.9542312813118,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jasper</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jasper County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.02502667333781,30.7439939672736,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Stonewall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Stonewall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.253374380322,33.1791896343371,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Webb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Webb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.33152991717201,27.761103736978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Young</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Young County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.6877691302829,33.1766429565291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Borden</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Borden County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.431716785273,32.7436402823287,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Comal</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Comal County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.2782421635342,29.8081905711729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Comanche</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Comanche County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.558220559905,31.947964705256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Floyd</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Floyd County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.30324077539,34.0724206112591,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Frio</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Frio County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.1081988591358,28.8677862343676,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Garza</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Garza County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.298443584378,33.1798589999006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Gray</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Gray County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.812604899607,35.4012015613232,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kerr</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kerr County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.35000868340812,30.0614540358487,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Mitchell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Mitchell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.921134576919,32.3061973279861,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Nueces</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Nueces County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.61368793062211,27.725384095519,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Ochiltree</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Ochiltree County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.815667291596,36.2783579853503,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Terry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Terry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.335167496362,33.1738023237835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Zavala</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Zavala County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.7605298057571,28.8661753531479,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Dimmit</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Dimmit County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.7566428031129,28.4225575797422,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Goliad</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Goliad County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.4265087834641,28.6570916683995,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hays</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hays County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.0311706141925,30.0578820961573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hunt</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hunt County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.0854673752644,33.1235970598538,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jefferson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jefferson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.1629243982989,29.8840658405978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Maverick</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Maverick County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.314523487044,28.7426175156154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Menard</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Menard County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.82059985043591,30.8898084936949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Refugio</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Refugio County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.16563302798011,28.3253351799271,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Roberts</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Roberts County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.813570904814,35.8384279186354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Trinity</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Trinity County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.1355632852929,31.0887840839928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Ward</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Ward County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.10247718781,31.5094981152618,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Wharton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Wharton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.2221165179882,29.2778361255856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Burnet</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Burnet County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.18232680187721,30.7883948477495,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Cochran</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Cochran County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.828512289484,33.6041834893931,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Dewitt</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">DeWitt County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.3567377409281,29.0820547079411,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Howard</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Howard County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.435586091986,32.3061646319133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Mills</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Mills County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.5954366244798,31.4951557570416,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Montague</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Montague County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.7246405042727,33.6757130428425,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Calhoun</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Calhoun County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.60173474965219,28.5075086107713,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Cooke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Cooke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.2125876118251,33.6392497016433,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Gaines</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Gaines County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.635187581181,32.7407487398027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jeff_Davis</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jeff Davis County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.139963140117,30.7153752844242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Knox</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Knox County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.74142728409019,33.6060602557322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Limestone</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Limestone County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.58049922395719,31.5454504651846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Smith</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Smith County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.269183257298,32.3749498482151,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Upshur</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Upshur County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.9414552588803,32.7362211577152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Victoria</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Victoria County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.97155901890139,28.7963219584016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Winkler</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Winkler County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.048342106466,31.8500646605115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Brooks</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Brooks County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.218745400724,27.0315788702854,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Castro</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Castro County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.261675972411,34.5298773139453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Colorado</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Colorado County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.5262787599183,29.6207993612978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Eastland</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Eastland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.83229297216842,32.3270787893412,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Fannin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Fannin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.1068561131701,33.5938296788474,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Gonzales</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Gonzales County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.4925489508059,29.4566813692729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_La_Salle</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">La Salle County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.09963587124309,28.3451729943524,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Orange</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Orange County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.89382775294899,30.1213233751135,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Stephens</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Stephens County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.83617333543809,32.7358715585997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Tyler</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Tyler County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.3765652667696,30.7712139546925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Dickens</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Dickens County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.778918492149,33.6164480597585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Gregg</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Gregg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.81704300804179,32.4804428987082,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Harris</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Harris County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.393769187766,29.8578005898064,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hudspeth</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hudspeth County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.386477661058,31.4562585699966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_San_Patricio</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">San Patricio County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.5187464502511,28.0092349915473,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Tarrant</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Tarrant County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.2911170475241,32.7719297219319,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_El_Paso</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">El Paso County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.234840495145,31.7685544364077,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Moore</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Moore County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.892987518355,35.8377147639775,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Panola</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Panola County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.30558251188469,32.162356992181,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Runnels</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Runnels County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.9761903822168,31.8311210303159,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Scurry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Scurry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.916422895948,32.7462811765917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Collingsworth</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Collingsworth County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.270020162434,34.9648251706777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Irion</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Irion County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.98238600099,31.303915163689,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kimble</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kimble County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.74867506368621,30.4867929971153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Nolan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Nolan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.405963192044,32.3035061483726,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Shackelford</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Shackelford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.35403210962291,32.735950953351,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Starr</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Starr County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.7386787101605,26.562097845319,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Taylor</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Taylor County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.89013261420371,32.3014671713562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Wise</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Wise County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.6544746737614,33.2159055256149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Brazos</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Brazos County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.3023469992829,30.6607904138281,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Burleson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Burleson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.62141774647441,30.4924802049465,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hill</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hill County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.13243697766841,31.9906764103748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kent</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kent County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.777628147655,33.1813004724891,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lubbock</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lubbock County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.820519681286,33.6102035240513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Morris</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Morris County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.7326626434494,33.1135028009644,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Parmer</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Parmer County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.784479408774,34.530072224608,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Wilson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Wilson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.0865631535747,29.1739811927781,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Zapata</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Zapata County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.16864359527381,27.0007832967073,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Andrews</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Andrews County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.637742153448,32.3050292983051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Brazoria</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Brazoria County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.4520822138398,29.1898373613968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Collin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Collin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.572415255183,33.1879980715614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Guadalupe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Guadalupe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.94867188213,29.5830101466777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Mcculloch</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">McCulloch County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.34753682886,31.19884839810589,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Nacogdoches</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Nacogdoches County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.6157181790218,31.6158668740096,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Reagan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Reagan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.523096408252,31.3662132484878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Red_River</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Red River County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.0503069182476,33.6207875591407,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Shelby</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Shelby County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.14493498728561,31.792381151425,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Washington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Washington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.4034686070801,30.2144967991799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Austin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Austin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.27790895321741,29.8870286407105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bosque</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bosque County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.6343364602086,31.9003835066424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Denton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Denton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.1168185386372,33.2055184891626,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Ector</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Ector County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.54288515205,31.8691941285447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Ellis</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Ellis County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7947069489998,32.348400222374,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lipscomb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lipscomb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.273143636809,36.2776358858509,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Randall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Randall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.897035054886,34.9658678220808,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Rockwall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Rockwall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.4078777690405,32.8978478926529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bowie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bowie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.42346382536209,33.4458375639,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Crane</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Crane County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.515600920136,31.4286290833906,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Edwards</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Edwards County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.304750771956,29.98270936694299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Grayson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Grayson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.6777179371087,33.6267339670712,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Motley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Motley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.779799595685,34.0740711523929,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Wood</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Wood County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.38208339920379,32.7862722895098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Angelina</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Angelina County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.6119177029025,31.2546952931732,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bexar</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bexar County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.5200727850842,29.4489341987912,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Donley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Donley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.813976575773,34.9654418710022,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Galveston</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Galveston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.96428978501189,29.3944269579412,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hamilton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hamilton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.11069000710042,31.7048161804805,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.96571363323682,30.3106832500535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Mcmullen</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">McMullen County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.56788282351459,28.352645806365,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Marion</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Marion County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.3572008561037,32.7980005331303,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Milam</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Milam County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.97686241604831,30.7862950404856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Navarro</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Navarro County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.47244291479669,32.0469807967417,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Parker</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Parker County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.805073574164,32.7776330503112,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Val_Verde</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Val Verde County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.151732338572,29.8929335085665,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Wichita</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Wichita County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.70353896479909,33.9879480815392,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Williamson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Williamson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.6003953469624,30.6475134103498,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Archer</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Archer County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.68766944716772,33.6152750246133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Baylor</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Baylor County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.2135382472138,33.6165092641698,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Franklin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Franklin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.2184261198056,33.1755547031074,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Gillespie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Gillespie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.94652069205368,30.3180669200006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hopkins</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hopkins County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.5639483677745,33.1495522617074,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hutchinson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hutchinson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.354679168299,35.8400358777086,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jack</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jack County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.17247886425881,33.233460755116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Matagorda</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Matagorda County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.0109930407065,28.8211471635159,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Oldham</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Oldham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.602770843489,35.405045892516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Cherokee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Cherokee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.165062837587,31.8369678212947,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Coke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Coke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.529939287993,31.888597481648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Dallas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Dallas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.77776779253141,32.7665559478318,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Erath</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Erath County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.21794318321621,32.2362445938539,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hardin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hardin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.39017030617561,30.3323953077534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lynn</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lynn County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.816126961321,33.1768268387133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_San_Saba</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">San Saba County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.81756481341311,31.1551732235022,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Atascosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Atascosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.5271641202912,28.893514255492,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bastrop</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bastrop County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.3120145567985,30.1036052895252,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.47876209975878,31.0373240716098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Caldwell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Caldwell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.61991274081521,29.8368532321773,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Coryell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Coryell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.7992725364623,31.390884126484,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Fisher</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Fisher County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.402179138929,32.7428097353392,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Grimes</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Grimes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.98546957877181,30.5434903063742,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hood</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hood County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.8322719757481,32.4299331834741,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jim_Wells</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jim Wells County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.0898368463335,27.7313925836615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kendall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kendall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.71152048421411,29.9446524606697,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Liberty</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Liberty County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.81222210579658,30.1516243503148,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Martin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Martin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.951276618693,32.3059945447908,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Potter</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Potter County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.89392863598,35.4012868722231,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_San_Jacinto</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">San Jacinto County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.16695660916631,30.5795104230672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Tom_Green</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Tom Green County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.462126958959,31.4044191513857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Van_Zandt</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Van Zandt County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.8365290867476,32.5636743953218,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Falls</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Falls County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.9358760876204,31.2532497633501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hockley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hockley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.343188805456,33.6076282587273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kenedy</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kenedy County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.7017189311821,26.9285388645887,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_King</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">King County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.255844214203,33.616549733095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lamar</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lamar County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.57125256078309,33.6672811178353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Presidio</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Presidio County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.240503486766,29.9997636011107,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Swisher</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Swisher County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.734997319118,34.5303854594785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bailey</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bailey County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.829876133542,34.0685846518702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Briscoe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Briscoe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.208555365147,34.5302676122893,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Carson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Carson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.354197953158,35.4034872841481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Crosby</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Crosby County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.299990930524,33.6146570998773,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Glasscock</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Glasscock County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.520779782598,31.8694754108927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Houston</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Houston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.42267018731459,31.3177099995902,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Karnes</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Karnes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.85939910446581,28.9057110554391,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Loving</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Loving County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.580042208048,31.8492838707598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Palo_Pinto</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Palo Pinto County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.31300637204919,32.7531650927086,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Robertson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Robertson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.51292307733461,31.0270341727806,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Schleicher</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Schleicher County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.538317803437,30.8974224334813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Somervell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Somervell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.77454457742979,32.2222049082279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Upton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Upton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.043142864615,31.3687810211074,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Waller</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Waller County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.9876575769881,30.0107934115536,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Wheeler</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Wheeler County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.269764411663,35.4012353324446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.74116392506892,28.4173686787857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Concho</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Concho County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.864054983334,31.3265549172371,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Delta</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Delta County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.6721511914874,33.3863078221968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Live_Oak</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Live Oak County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.12481669191649,28.3513963625868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Mclennan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">McLennan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.2017849167072,31.5523548093043,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Pecos</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Pecos County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.723534303006,30.7810135795734,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Polk</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Polk County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.830071903258,30.7926408732808,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Wilbarger</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Wilbarger County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.2409947163099,34.0807566012354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Cass</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Cass County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.34353789660499,33.0776149264057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Fayette</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Fayette County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.91977633929369,29.8767825628854,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Foard</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Foard County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.77800702969149,33.9745550088114,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Fort_Bend</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Fort Bend County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.7709969861661,29.5275456153383,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lamb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lamb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.35172993337,34.0686108935093,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Leon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Leon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.99563383582129,31.2965143484554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Newton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Newton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.74477039548449,30.78642944365451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Reeves</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Reeves County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.692979432546,31.3230149062376,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Rusk</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Rusk County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.7618553468668,32.1077000364141,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Uvalde</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Uvalde County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.76221888446952,29.35729569721831,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Brown</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Brown County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.9997689735917,31.7742564910207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Chambers</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Chambers County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.60995224204279,29.7384221798194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Coleman</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Coleman County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.4536372166791,31.7731711869711,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Crockett</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Crockett County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.412060413229,30.7230887323762,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Duval</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Duval County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.5088695936491,27.6813795890053,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hardeman</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hardeman County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.74568865543532,34.2902448177799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Harrison</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Harrison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.37147809682379,32.5481519352187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Jones</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Jones County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.87874143719181,32.7398899950607,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lavaca</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lavaca County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.9301981449095,29.3843170018346,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Mason</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Mason County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.2261399929298,30.7177118329023,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Rains</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Rains County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.79344519849209,32.8703360860013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Willacy</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Willacy County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.66318468985169,26.4692781385779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Bandera</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Bandera County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.24630270907208,29.74720472309791,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Dawson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Dawson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.947645909597,32.7425567884688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Freestone</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Freestone County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.149112772617,31.7048769885112,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hale</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hale County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.826898207761,34.0704906469027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.681116595516,34.5307822460042,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kaufman</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kaufman County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.2877806389009,32.5992798032863,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Lampasas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Lampasas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.2414544051757,31.1962139654521,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Deaf_Smith</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Deaf Smith County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.604987495097,34.966033442098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Medina</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Medina County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.1100865212677,29.3557026787479,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Real</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Real County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.82217347364131,29.8317951946814,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Sterling</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Sterling County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.050054275053,31.8277980324675,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Yoakum</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Yoakum County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.827783032207,33.1729937568894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Brewster</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Brewster County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.251742863294,29.8119411654877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Dallam</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Dallam County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.60222212811,36.2778862178202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hansford</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hansford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.354564762509,36.2774294173132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Haskell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Haskell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.73029977360591,33.1782305343975,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kleberg</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kleberg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.72750824373141,27.4337213207614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Llano</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Llano County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.68412287378089,30.7057783818013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Midland</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Midland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.031600213107,31.86913148696109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Walker</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Walker County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.57228240719731,30.7389982279322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Hartley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Hartley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.602914983952,35.8399980307158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Kinney</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Kinney County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-100.417983125626,29.3502017675385,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_San_Augustine</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">San Augustine County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.16812841846522,31.3941603587901,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Sherman</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Sherman County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-101.893432403783,36.2777180626209,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TX_County_Travis</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Texas_County_Names">
+				<SimpleData name="State">Texas</SimpleData>
+				<SimpleData name="County">Travis County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.78197066600372,30.3343703405703,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

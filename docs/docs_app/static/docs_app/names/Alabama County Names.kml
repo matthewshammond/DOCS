@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Alabama County Names</name>
+	<description>Alabama County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>AL_County_Bibb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Bibb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.1264668164565,32.9986270272255,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Lee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Lee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.3554955771091,32.6011363803576,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Butler</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Butler County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.68027059446921,31.7524359209306,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Chambers</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Chambers County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.39202201041201,32.9143307405627,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Perry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Perry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.29441402092939,32.6384645284747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Walker</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Walker County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.2973320873929,33.8033245194674,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Dallas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Dallas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.10648320931411,32.3259584189334,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Macon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Macon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.6926677150458,32.3859293540273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Mobile</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Mobile County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-88.2064547191644,30.7917264455461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Autauga</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Autauga County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.6427344267548,32.5349272752561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Choctaw</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Choctaw County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-88.26317321902231,32.019776811161,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Cleburne</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Cleburne County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.51882098244231,33.6745109049739,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Houston</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Houston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.3025358312491,31.1532094535466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Limestone</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Limestone County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.98142656926591,34.8100799129575,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Lowndes</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Lowndes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.6500731446735,32.1547513364385,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Russell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Russell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.1849339763763,32.2883702857591,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Lawrence</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Lawrence County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.3110327680555,34.5217024407812,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Pike</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Pike County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.94093898047529,31.8027303223471,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Baldwin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Baldwin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7225599459203,30.7276054262789,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Cullman</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Cullman County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.8676120655899,34.1319956067735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Winston</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Winston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.3736898050232,34.149206672954,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Conecuh</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Conecuh County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.9936404354842,31.4292140569549,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Escambia</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Escambia County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.1615818750318,31.1261335503715,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Franklin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Franklin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8437461321044,34.4416828423821,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Jackson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Jackson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.9993438680326,34.7794757754758,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Crenshaw</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Crenshaw County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.3135669440355,31.7315402902031,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Sumter</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Sumter County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-88.19883980714251,32.5910284608234,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Barbour</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Barbour County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.39323505553919,31.8695954305562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Clay</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Clay County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.86053117508661,33.2690244211212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Washington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Washington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-88.2079285696806,31.4076031192627,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Coosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Coosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.2476692135418,32.9362604874287,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Montgomery</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Montgomery County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.2076002944217,32.2202409627,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Monroe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Monroe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.3654618685505,31.5708406428273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Blount</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Blount County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.5674800921982,33.9808157335459,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Calhoun</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Calhoun County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.8260319989387,33.7714071345165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Jefferson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Jefferson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.8964008171133,33.5543213024652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Marshall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Marshall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.3066493139638,34.3669606849945,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Pickens</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Pickens County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-88.0887020109969,33.2807799284401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Geneva</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Geneva County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.839089079551,31.0950457723879,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Marengo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Marengo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7895040504213,32.2476680122909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_St_Clair</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">St. Clair County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.3145997896258,33.715741858955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Cherokee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Cherokee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.60379756791809,34.1759101011617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Colbert</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Colbert County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8050211286418,34.700458799272,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Clarke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Clarke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.830843024149,31.6765943651992,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Tallapoosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Tallapoosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.7975301644862,32.8623624256408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Coffee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Coffee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.9881738069593,31.4026577296083,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Etowah</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Etowah County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.03471727405361,34.0452768605514,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Talladega</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Talladega County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.1658668824011,33.3800756993842,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Dekalb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">DeKalb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.8041287676317,34.4597985944909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Fayette</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Fayette County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.73882917636379,33.7212059894488,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Lauderdale</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Lauderdale County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6540650881971,34.9014105525821,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Randolph</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Randolph County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.4590821542282,33.2937859111814,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Hale</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Hale County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6291530800607,32.7627220092374,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Chilton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Chilton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.71876817691781,32.847870296769,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Covington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Covington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.4512638382709,31.2484924919545,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Elmore</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Elmore County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.1491360544763,32.5966258443165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Greene</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Greene County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.95227141687479,32.8530616549842,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Henry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Henry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.24138750546111,31.5147483324157,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Lamar</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Lamar County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-88.09695685636569,33.7791335323623,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Shelby</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Shelby County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.66067162680299,33.2642794261256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Madison</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Madison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.5502460387593,34.763070990556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Marion</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Marion County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8871454724286,34.1365502522333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Wilcox</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Wilcox County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.3081886073291,31.98925778001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Bullock</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Bullock County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.7156654022256,32.1005161751584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Dale</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Dale County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.61104897691369,31.4318189654534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Morgan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Morgan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.8529318266433,34.4534309161247,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AL_County_Tuscaloosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#County_Names">
+				<SimpleData name="State">Alabama</SimpleData>
+				<SimpleData name="County">Tuscaloosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.525113609038,33.2895623297603,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Arkansas County Names</name>
+	<description>Arkansas County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>AR_County_Clark</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Clark County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.1763760197054,34.0509739447786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Ashley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Ashley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.76847602272488,33.1912166366508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Chicot</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Chicot County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.2937360828148,33.2669614240609,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Newton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Newton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.2178691425262,35.9199789653142,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Scott</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Scott County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.0632346392333,34.8607190674872,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Sharp</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Sharp County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.47978333327799,36.1611892059894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Van_Buren</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Van Buren County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.515752247853,35.580621434345,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Arkansas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Arkansas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.37418893627519,34.2891662238424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Johnson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Johnson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.46017799733529,35.5697143264046,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Nevada</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Nevada County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.3071777369465,33.6640199640541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Union</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Union County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.5972537853818,33.1712987715062,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Cleveland</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Cleveland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.1851359163941,33.8984024944364,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Lonoke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Lonoke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.8887759424962,34.7542303141749,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Ouachita</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Ouachita County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.8818628553696,33.5933385092281,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Benton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Benton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.25614214008378,36.3387061685002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Dallas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Dallas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.65431315249239,33.9699066576679,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Independence</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Independence County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.569755407843,35.7415610451966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Izard</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Izard County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.91340061616451,36.0948531985274,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Montgomery</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Montgomery County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.65956050561871,34.5388967348947,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Conway</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Conway County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.701474527331,35.2623985968232,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Miller</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Miller County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.8920944284163,33.312335212938,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Prairie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Prairie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.55282651761021,34.8297352668523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Lafayette</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Lafayette County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.6069902942277,33.2415922316468,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Phillips</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Phillips County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.8488682994598,34.4274351356604,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Marion</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Marion County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.68428616372439,36.2684722930062,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Pulaski</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Pulaski County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.3119479503106,34.770012299961,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Randolph</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Randolph County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.0276467428049,36.3414584279263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Yell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Yell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.41084261120201,35.002588010098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Baxter</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Baxter County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.3369587470925,36.2871674050313,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Greene</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Greene County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.55902433804741,36.1176593892618,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Hot_Spring</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Hot Spring County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.94613610599779,34.3176477407818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Polk</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Polk County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.22820720629241,34.4858435958292,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Sevier</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Sevier County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.24114348082441,33.9972344727088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Columbia</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Columbia County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.22729749890009,33.2142964522679,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Crawford</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Crawford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.242861410225,35.5880606913856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Pike</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Pike County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.6564247668631,34.1634633712421,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Sebastian</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Sebastian County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.2743307224747,35.1988758097408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Stone</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Stone County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.15679411885181,35.8598760199914,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Calhoun</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Calhoun County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.50292238104508,33.5581082825291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Madison</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Madison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.72458122516699,36.0110483956239,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Lee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Lee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.78080332885349,34.7805284729411,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Cleburne</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Cleburne County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.0266956592954,35.5381719244657,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Mississippi</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Mississippi County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.0521630989622,35.7624073495343,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Carroll</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Carroll County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.53820521587139,36.3410684356829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Hempstead</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Hempstead County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.6684774635257,33.7353093431963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Pope</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Pope County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.03455305003141,35.4479177929184,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Washington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Washington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.21560729863529,35.979052564576,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Clay</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Clay County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.41727942372299,36.3683050386046,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Fulton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Fulton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.8181516000453,36.3816508601204,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Woodruff</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Woodruff County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.2430082490047,35.1863285531895,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Craighead</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Craighead County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.6328265514838,35.8307983290449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Drew</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Drew County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.71997884672561,33.5894347529779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Faulkner</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Faulkner County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.332072694198,35.1470060117133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Garland</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Garland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.1504050165014,34.5767159469933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Monroe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Monroe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.2039023898727,34.6778463756706,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Searcy</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Searcy County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.69954196610701,35.9109749797966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Bradley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Bradley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.1623921090997,33.4664050618461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Desha</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Desha County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.2550937254624,33.8308758797426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Jackson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Jackson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.2145205849541,35.5992845878368,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Little_River</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Little River County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.23529095388778,33.7009367806195,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Cross</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Cross County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.7711274438601,35.2957171008469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_White</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">White County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.7455278824317,35.2562344357841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Crittenden</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Crittenden County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.30783977433141,35.2056922820035,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Franklin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Franklin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.89058744676319,35.5123571504527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Lincoln</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Lincoln County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.7344143935037,33.9569879038745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Logan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Logan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.7166069956839,35.2149267507702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Lawrence</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Lawrence County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.1069945032603,36.0411971768988,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Poinsett</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Poinsett County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.6629921222503,35.5740167859943,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_St_Francis</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">St. Francis County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-90.7478014900117,35.0220345481659,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Saline</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Saline County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.6765772770646,34.6466280416838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Howard</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Howard County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.9935638426257,34.0889543218218,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Perry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Perry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.9312664935731,34.9475026990312,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Boone</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Boone County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-93.09153658126668,36.3086054319984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Grant</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Grant County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-92.42368188953381,34.2900475628892,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AR_County_Jefferson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Arkansas_County_Names">
+				<SimpleData name="State">Arkansas</SimpleData>
+				<SimpleData name="County">Jefferson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-91.93046221834661,34.2683062895536,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

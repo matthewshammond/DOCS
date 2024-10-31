@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>South Carolina County Names</name>
+	<description>South Carolina County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SC_County_Anderson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Anderson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.6377306142944,34.519349593468,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Clarendon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Clarendon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.21644906902991,33.6657900687386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Dorchester</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Dorchester County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.4067601714118,33.079316334213,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Edgefield</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Edgefield County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.9664251188793,33.7722179306984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Horry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Horry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.9969118670996,33.9216508309286,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_York</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">York County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1845402772304,34.9747858292012,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Beaufort</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Beaufort County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.7306060799463,32.3857241243509,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Cherokee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Cherokee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6205725951652,35.0480737683869,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Greenville</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Greenville County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.37055976821721,34.894089011903,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Hampton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Hampton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.140585668206,32.7763525439442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Sumter</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Sumter County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.3823313798288,33.9161702815325,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Dillon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Dillon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.3788857806786,34.3914876400493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Spartanburg</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Spartanburg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.9907788511392,34.9309238852832,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Chesterfield</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Chesterfield County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.1587923989957,34.639794015595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Georgetown</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Georgetown County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.33264716945391,33.434270907701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Williamsburg</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Williamsburg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.727690421692,33.619919704175,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Darlington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Darlington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.9576724258494,34.3325409346201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Jasper</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Jasper County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.0316671363248,32.4374807114026,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Kershaw</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Kershaw County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.5902578775538,34.3387864123125,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Laurens</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Laurens County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.005680273522,34.4833966213527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Saluda</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Saluda County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.7267575723577,34.0060595287577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Bamberg</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Bamberg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.0541958219748,33.2147937860323,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Fairfield</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Fairfield County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1212184748352,34.3950929685474,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Oconee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Oconee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.06604714317569,34.7536119864632,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Mccormick</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">McCormick County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.3099083240249,33.8995014404943,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Aiken</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Aiken County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6347291487634,33.5442146422108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Abbeville</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Abbeville County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.4592654599669,34.2226490921765,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Orangeburg</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Orangeburg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.8002869452454,33.4390015066129,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Richland</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Richland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.9032221098834,34.0219279635519,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Chester</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Chester County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1595599999599,34.6920337145577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Lancaster</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Lancaster County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.7055141450092,34.686821408041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Union</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Union County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6191410526435,34.6895652006391,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Lee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Lee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.2544990939757,34.1633566550513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Lexington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Lexington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.27222214835901,33.9022718423837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Marion</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Marion County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.36248129812731,34.0800987719193,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Newberry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Newberry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6001430044378,34.2898341422121,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Pickens</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Pickens County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.72534482646169,34.8870948884752,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Charleston</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Charleston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.95314110296439,32.8347128121067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Florence</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Florence County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.7029027930143,34.0244924947028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Greenwood</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Greenwood County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.1258895809512,34.1536921878574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Allendale</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Allendale County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.3580893166605,32.9880651297667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Calhoun</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Calhoun County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.780462592182,33.6749324998259,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Marlboro</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Marlboro County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.67861000123931,34.602014389337,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Barnwell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Barnwell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.4349179292058,33.2660586649098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Berkeley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Berkeley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.9521646193741,33.197277178475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SC_County_Colleton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#South_Carolina_County_Names">
+				<SimpleData name="State">South Carolina</SimpleData>
+				<SimpleData name="County">Colleton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.6670237347456,32.8636727904887,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>North Carolina County Names</name>
+	<description>North Carolina County Names</description>
+	<Schema name="north_carolina" id="north_carolina">
+		<SimpleField type="string" name="State"></SimpleField>
+		<SimpleField type="string" name="County"></SimpleField>
+	</Schema>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>NC_County_Chowan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Chowan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.6079149963474,36.1508544013978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Lincoln</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Lincoln County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.2234776003077,35.4855823722202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Union</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Union County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.53072765816979,34.9884076748182,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Hoke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Hoke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.2373052523874,35.0175494292543,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Dare</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Dare County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-75.798768514561,35.7824414016922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Hyde</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Hyde County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.2517461054767,35.5306419846784,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Macon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Macon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.42221980354439,35.1505307391617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Nash</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Nash County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.98647269155209,35.967243860796,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Currituck</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Currituck County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.0078935716773,36.4049888250134,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Davidson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Davidson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.2127638696488,35.7933567643483,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Davie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Davie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.5445276183591,35.9291157075198,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Granville</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Granville County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.6527331862503,36.304036444124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Mitchell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Mitchell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.16357129765331,36.0133210260638,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Graham</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Graham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.8334738234789,35.3501477560706,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Lenoir</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Lenoir County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.6412530822647,35.2387883137748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Northampton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Northampton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.39693321631459,36.4177442824117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Onslow</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Onslow County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.4321734521818,34.7322321428414,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Brunswick</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Brunswick County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.2383269720774,34.0715344961708,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Edgecombe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Edgecombe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.597041197897,35.9129131773783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Transylvania</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Transylvania County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.7981629467409,35.2021220810966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Anson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Anson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.1027533903802,34.973821027136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Bladen</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Bladen County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.5637892094536,34.6146641965895,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Sampson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Sampson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.3714554756834,34.991592739158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Warren</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Warren County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.1066538940434,36.3965014731466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Yancey</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Yancey County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.3075995986823,35.8989325154611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Beaufort</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Beaufort County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.8597503377987,35.4939752333667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Caswell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Caswell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.3335364900605,36.3931699394828,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Lee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Lee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.17142613700329,35.4751783527838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Montgomery</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Montgomery County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.9055125513399,35.3324747991588,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Richmond</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Richmond County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.7478881378896,35.0059661807222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Stanly</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Stanly County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.2510053932249,35.3119176158007,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Watauga</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Watauga County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6964276170705,36.2310986072481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Alexander</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Alexander County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.17698347052701,35.9210989782278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Avery</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Avery County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.92258222884421,36.0765704654904,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Burke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Burke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.70478719968,35.7495883469149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Chatham</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Chatham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.25540045939491,35.7026078717778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Iredell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Iredell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.87345602398,35.807052228249,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Johnston</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Johnston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.3656924824855,35.5178277814475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Moore</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Moore County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.4813828667654,35.3106813204501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Yadkin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Yadkin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.6652346910321,36.1605052423541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Craven</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Craven County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.0939194910586,35.1248917114637,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Pitt</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Pitt County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.37444347095661,35.593302653713,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Rowan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Rowan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.52473258580559,35.6394065451781,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Caldwell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Caldwell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.5464316349682,35.9529892635445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Halifax</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Halifax County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.6516437670066,36.2574539464853,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Surry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Surry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.6879461753511,36.4145756464196,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Greene</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Greene County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.6757402307293,35.4850284539415,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Scotland</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Scotland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.48038783631139,34.8408693371439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Tyrrell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Tyrrell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.2089326657852,35.8171617916597,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Ashe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Ashe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.5003779552125,36.4340829917454,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Haywood</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Haywood County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.9822111230789,35.5560651477737,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NC_County_Hertford</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Hertford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.9820261208002,36.3591208795338,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Carteret County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.65896713293171,34.8357397371574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Guilford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.7889278029771,36.0794883428396,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">New Hanover County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.88471607170339,34.232868793922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Swain County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.4927841770948,35.4868316887748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Washington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.57751170680071,35.8225157358423,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Henderson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.47996895203239,35.3363026383931,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Alleghany County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1270651216267,36.4915164452849,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Cumberland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.82774356486929,35.0487464218431,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Jones County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.3551044299543,35.0216982396565,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Catawba County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.21510523271751,35.6620557255306,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Cleveland County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.5555413517872,35.3340717726389,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Rutherford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.919818699275,35.4025307816697,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Columbus County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.6550163500123,34.2656645149479,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Jackson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.1408668245052,35.287598858542,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Franklin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.2857130121788,36.0827331539121,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Gates County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.7004447663394,36.4449412402196,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Polk County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.1696960537913,35.2792965177466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Randolph County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.80601101660029,35.7103281656898,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Wayne County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.0040139229382,35.3639597047681,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Wilkes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1629976115501,36.2061542936676,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Harnett County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.86936066735331,35.3688987027477,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Wilson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.918618003584,35.7051479826465,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Cabarrus County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.55184842185071,35.3867633339883,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Martin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.1092242255997,35.8431784742746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Alamance County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.39945220645291,36.0436810565959,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Camden County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.2080354002149,36.3891517813271,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Gaston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1803012221673,35.2943689329837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Orange County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.1206690501656,36.0611542802288,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Rockingham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.7750008286188,36.3960183046109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Stokes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.23964434304629,36.4018992871054,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Cherokee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.063402688419,35.1338710943147,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Durham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.8766050671498,36.0359996655534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">McDowell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.04928737340011,35.6816851891998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Wake County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.6502970315634,35.7903128021384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Bertie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.9788551706034,36.0662551147834,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Buncombe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.530026746122,35.6111634276908,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Mecklenburg County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.8327947040401,35.2467200580784,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Pamlico County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.7407522608287,35.143460444919,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Robeson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-79.1039616800155,34.6402130855996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Duplin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.93298673470871,34.9365603523398,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Forsyth County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.2563355729516,36.130631508671,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Perquimans County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.4411680345617,36.2058723439656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Person County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.9717763993736,36.3900079126088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Vance County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-78.4079289079253,36.364973746192,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Clay County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.7501423354466,35.0571955954885,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Madison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.70578348974681,35.8579762097728,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Pasquotank County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-76.284260147186,36.2954301363191,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#north_carolina">
+				<SimpleData name="State">North Carolina</SimpleData>
+				<SimpleData name="County">Pender County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-77.90529256494639,34.5248648225856,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,7 @@
+LATITUDE,LONGITUDE,TITLE,CAD Identifiers and/or Description,FAA IDENTIFIER,AIRPORT
+34 9.50 N,82 22.92 W,ABVLE,"Abbeville Area Med Ctr-Abbeville, SC",SC83,True
+31 35.48 N,84 9.41 W,ABYFP,"Phoebe Putney Mem Hosp-Albany, GA",,False
+33 34.33 N,81 45.73 W,AIKEN,"Aiken Reg Med Ctr-Aiken, SC",,False
+31 32.34 N,082 27.52 W,ALMA,"Bacon County Hosp-Alma, GA",,False
+32 57.09 N,081 14.94 W,ALNDL,"Allendale County Hosp-Fairfax, SC",,No
+32 04.05 N,084 15.32 W,AMERI,"Phoebe Sumter Med Ctr-Americus, GA",1GA7,Yes

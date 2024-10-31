@@ -1,0 +1,9 @@
+services:
+  docs:
+    volumes:
+      - static_data:/vol/web/static
+      - media_data:/vol/web/media 
+
+volumes:
+  static_data:
+  media_data: 

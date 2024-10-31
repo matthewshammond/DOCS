@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Colorado County Names</name>
+	<description>Colorado County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>CO_County_Grand</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Grand County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.118337255745,40.102650690831,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_San_Juan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">San Juan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.67615800861,37.7640419491978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_San_Miguel</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">San Miguel County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.405865156627,38.0038228363014,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Teller</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Teller County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.161754588678,38.8823998799187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Chaffee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Chaffee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.19415634397,38.7470779218336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Jefferson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Jefferson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.250514173942,39.5863605949278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Lake</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Lake County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.344787800076,39.2024816034923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Eagle</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Eagle County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.695291808599,39.6278400802697,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Mesa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Mesa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.466447477492,39.018305314934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Crowley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Crowley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.78447679352,38.326579240996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Broomfield</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Broomfield County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.052692255501,39.9540093974218,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Washington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Washington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.201272947628,39.9710257776737,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Arapahoe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Arapahoe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.339273561636,39.649743265206,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Conejos</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Conejos County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.191621470946,37.2007066180061,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Denver</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Denver County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.875799855958,39.7617712213525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Rio_Blanco</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Rio Blanco County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.217075298711,39.9798433705659,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Weld</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Weld County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.392455415246,40.5548243019381,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Adams</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Adams County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.338015104854,39.8736101415158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Kiowa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Kiowa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.740235205566,38.4326381709934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_La_Plata</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">La Plata County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.843330182722,37.2865473160756,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Bent</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Bent County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.07172583109,37.9551063770951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Fremont</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Fremont County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.439600607546,38.4730801021182,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_El_Paso</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">El Paso County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.525358029817,38.8321128322118,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Baca</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Baca County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.560381792343,37.3191976361865,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Ouray</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Ouray County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.769261287629,38.15547575846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Pueblo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Pueblo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.512736469115,38.1735211301481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Rio_Grande</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Rio Grande County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.383220315063,37.5825020323465,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Routt</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Routt County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.991257731641,40.4851301840297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Boulder</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Boulder County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.35775857646,40.0924772090597,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Hinsdale</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Hinsdale County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.300289600269,37.8212701885729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Las_Animas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Las Animas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.038643289326,37.3157952622024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Douglas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Douglas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.929300223294,39.3297650298307,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Elbert</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Elbert County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.135740237133,39.2865280277968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Phillips</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Phillips County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.35759660888,40.5939720767259,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Dolores</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Dolores County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.517313123189,37.7517261175602,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Garfield</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Garfield County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.903970385498,39.5993221230468,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Montezuma</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Montezuma County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.596576670637,37.3385721269661,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Clear_Creek</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Clear Creek County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.644419295172,39.689141119677,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Moffat</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Moffat County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.207447661416,40.6183952708295,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Saguache</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Saguache County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.28148607918,38.0804879786959,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Larimer</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Larimer County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.461109451334,40.6663926783226,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Mineral</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Mineral County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.924142393252,37.6689685011696,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Sedgwick</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Sedgwick County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.351842846198,40.8759033434247,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Yuma</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Yuma County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.424252863168,40.0029286590006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Gunnison</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Gunnison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.031581765002,38.6667242638447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Jackson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Jackson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.342752941831,40.6664491982553,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Logan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Logan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.110117468701,40.7246655077487,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Montrose</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Montrose County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.269245660854,38.4022312201656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Prowers</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Prowers County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.39335938583,37.9551815703947,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Kit_Carson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Kit Carson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.602964907942,39.3055126272337,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Pitkin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Pitkin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.916581178804,39.2170769450766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Alamosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Alamosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.788364497404,37.5729117040243,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Cheyenne</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Cheyenne County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.603565611874,38.8279242780227,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Delta</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Delta County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.862916557636,38.8613758039347,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Huerfano</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Huerfano County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.960622410793,37.6846932547937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Lincoln</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Lincoln County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.51396682724,38.9880822078517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Costilla</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Costilla County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.428219144171,37.2780839068209,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Otero</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Otero County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.716514967141,37.9025791087224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Morgan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Morgan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.809736339867,40.2626648075817,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Gilpin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Gilpin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.522559090129,39.8575054500337,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Summit</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Summit County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.116361662469,39.634185693794,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Archuleta</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Archuleta County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.048282354652,37.193537982786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Custer</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Custer County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.36751244657,38.1086864083102,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CO_County_Park</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Colorado_County_Names">
+				<SimpleData name="State">Colorado</SimpleData>
+				<SimpleData name="County">Park County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.717161990284,39.1193797734932,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

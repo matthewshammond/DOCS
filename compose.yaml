@@ -1,0 +1,49 @@
+services:
+  docs:
+    container_name: docs
+    build:
+      context: .
+    # image: matthewshammond/docs:v2.0
+    restart: always
+    volumes:
+      - static-data:/vol/web
+    environment:
+      DEBUG: ${DEBUG}
+      DB_HOST: db
+      DB_NAME: docs_db
+      DB_USER: ${DB_USER}
+      DB_PASS: ${DB_PASS}
+      SECRET_KEY: ${SECRET_KEY}
+      EMAIL_USER: ${EMAIL_USER}
+      EMAIL_PASS: ${EMAIL_PASS}
+      ALLOWED_HOSTS: ${ALLOWED_HOSTS}
+      SITE_URL: ${SITE_URL}
+    depends_on:
+      - db
+
+  db:
+    container_name: docs_db
+    image: postgres:14.13-alpine
+    restart: always
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: docs_db
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+
+  proxy:
+    container_name: docs_proxy
+    build:
+      context: ./proxy
+    restart: always
+    depends_on:
+      - docs
+    ports:
+      - "80:8000"
+    volumes:
+      - static-data:/vol/static
+
+volumes:
+  postgres-data:
+  static-data:

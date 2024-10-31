@@ -1,0 +1,84 @@
+<!-- settings.html -->
+{% extends "base.html" %}
+{% block title %}
+    Settings
+{% endblock title %}
+{% block content %}
+    <div class="container mt-4">
+        <!-- Existing Program Management Section -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h3>Program Management</h3>
+            </div>
+            <div class="card-body">
+                <!-- Your existing program management content -->
+                <h4>Create Program</h4>
+                <form method="POST">
+                    {% csrf_token %}
+                    <div class="form-group mb-3">
+                        <input type="text" name="program_name" class="form-control" placeholder="Program Name" required>
+                    </div>
+                    <div class="form-group mb-3">
+                        <input type="text" name="program_code" class="form-control" placeholder="Program Code (3 characters)" maxlength="3" required>
+                    </div>
+                    <button type="submit" name="create_program" class="btn btn-dark">Create Program</button>
+                </form>
+
+                <hr>
+
+                <h4>Delete Program</h4>
+                <form method="POST">
+                    {% csrf_token %}
+                    <div class="form-group mb-3">
+                        <select name="program_id" class="form-select" required>
+                            <option value="">Select Program</option>
+                            {% for program in programs %}
+                                <option value="{{ program.id }}">{{ program.program_name }} ({{ program.program_code }})</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <button type="submit" name="delete_program" class="btn btn-danger" onclick="return confirm('Are you sure? This will delete all hospitals in this program.')">Delete Program</button>
+                </form>
+            </div>
+        </div>
+
+        {% if user.is_staff %}
+        <!-- Database Backup Section -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h3>Database Management</h3>
+            </div>
+            <div class="card-body">
+                <!-- Export Section -->
+                <h4>Export Database</h4>
+                <div class="mb-4">
+                    <a href="{% url 'export_full_db' %}" class="btn btn-dark me-2">Export Full Database</a>
+                    <a href="{% url 'export_programs_db' %}" class="btn btn-dark">Export Programs Only</a>
+                </div>
+
+                <!-- Import Section -->
+                <h4>Import Database</h4>
+                <form method="POST" enctype="multipart/form-data" action="{% url 'import_db' %}">
+                    {% csrf_token %}
+                    <div class="mb-3">
+                        <label for="dbFile" class="form-label">Select Backup File</label>
+                        <input type="file" class="form-control" id="dbFile" name="db_file" accept=".json">
+                    </div>
+                    <button type="submit" class="btn btn-dark" onclick="return confirm('This will overwrite existing data. Are you sure?')">Import Database</button>
+                </form>
+            </div>
+        </div>
+        {% endif %}
+
+        {% if messages %}
+            <div class="messages">
+                {% for message in messages %}
+                    <div class="alert alert-{{ message.tags }}">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    </div>
+{% endblock %}
+

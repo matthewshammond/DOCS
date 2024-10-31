@@ -1,0 +1,2079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Georgia County Names</name>
+	<description>Georgia County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>GA_County_Greene</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Greene County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.1666438637026,33.5788240957598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Haralson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Haralson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.21100925043039,33.7942197539635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Pierce</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Pierce County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.21280413634901,31.3588060087566,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Randolph</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Randolph County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.7542085423166,31.7626569395647,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Richmond</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Richmond County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.0736022037115,33.3596566984114,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Schley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Schley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.3147639880946,32.2616634010888,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Ware</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Ware County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.4237381444764,31.0537727865366,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Whitfield</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Whitfield County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.9672093165768,34.8055771594359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Worth</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Worth County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.8508905021618,31.5514893679281,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Bacon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Bacon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.4526985073062,31.5536387273903,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Crawford</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Crawford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.9863244783416,32.7145582082783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Johnson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Johnson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.6600869027309,32.7015080943503,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Lumpkin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Lumpkin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.002713522842,34.572177545147,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Pickens</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Pickens County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.4655790180032,34.4643521585298,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Screven</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Screven County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6119839843637,32.7505397840508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Thomas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Thomas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.9193201733833,30.8637467160263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Atkinson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Atkinson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.88005941535199,31.2971640500927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Forsyth</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Forsyth County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.1249587997478,34.2255488595096,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Franklin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Franklin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.2290802380509,34.3753972040729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Gilmer</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Gilmer County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.455635074415,34.6911378322158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Hancock</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Hancock County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.00073785883001,33.2704356273631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_COUNTY_JEFF DAVIS</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Jeff Davis County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.6367185940079,31.8055572392472,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Pike</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Pike County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.38928094842611,33.0922924672871,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Treutlen</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Treutlen County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.5671450552644,32.4038739894373,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Troup</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Troup County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.0283398323575,33.0335306307525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Brantley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Brantley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.9819366659723,31.1969010918832,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Dooly</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Dooly County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.79876187944041,32.1572261638243,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Echols</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Echols County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.89402947569219,30.7100624052759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Macon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Macon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.0425133596283,32.3584409587016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Paulding</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Paulding County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.8672872199633,33.9205529564374,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Seminole</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Seminole County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.86882617902489,30.9387802175413,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Turner</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Turner County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.62407948988751,31.7164305726374,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Morgan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Morgan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.49230502586271,33.5909181253462,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Bibb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Bibb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.6973275164783,32.8064289219733,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Carroll</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Carroll County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.0797564232861,33.5827732752262,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Chattooga</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Chattooga County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.34533992958799,34.4749940486858,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Columbia</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Columbia County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.264073103114,33.5440901846649,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Emanuel</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Emanuel County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.30171855158039,32.58971362022,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Glascock</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Glascock County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.6107476941534,33.2292884410362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Oglethorpe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Oglethorpe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.0807577021327,33.8806116044666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Upson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Upson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.29929873408859,32.8813275504365,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Walker</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Walker County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.30097615163091,34.7355861743683,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Washington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Washington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.7959627833397,32.9695393936997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Crisp</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Crisp County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.768064806255,31.92289013475621,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Newton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Newton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.8501303709744,33.5550524104912,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Jenkins</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Jenkins County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.963547454248,32.7924503620585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Laurens</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Laurens County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.92216902937309,32.4636161326797,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Peach</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Peach County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.8268914958601,32.5687791829437,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Jefferson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Jefferson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.4181778656353,33.0548859927595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Mcintosh</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">McIntosh County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.410301078294,31.4963677526505,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Madison</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Madison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.2089925273936,34.1277530181557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Montgomery</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Montgomery County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.5347511112504,32.1733672834826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Oconee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Oconee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.43708483501079,33.8350444400788,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Berrien</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Berrien County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.2296490952349,31.2759428052152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Candler</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Candler County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.0735809246939,32.4034572260597,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Chatham</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Chatham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1329615662606,32.0043293016434,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Pulaski</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Pulaski County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.4759878339092,32.2323397144351,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Bartow</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Bartow County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.84033727015201,34.2376550540833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Butts</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Butts County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.9571916738395,33.2878895676796,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Houston</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Houston County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.6662618575107,32.4590305813222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Marion</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Marion County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.52461660111661,32.3535164052548,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Meriwether</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Meriwether County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.6882707769837,33.0405277306741,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Rockdale</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Rockdale County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.0265815616345,33.6543025134642,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Wilcox</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Wilcox County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.43238926618309,31.9728908173177,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Baldwin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Baldwin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.2495647202155,33.0692688838877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Cobb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Cobb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.5767455701131,33.9415421093984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Dekalb</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">DeKalb County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.2264422095167,33.7715639445594,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Dougherty</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Dougherty County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.2164110012625,31.5334587612461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Douglas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Douglas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.7679338326744,33.7018726245827,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Hart</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Hart County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.96421845708559,34.3509100534863,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Monroe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Monroe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.91860227408191,33.0139176045245,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Murray</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Murray County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.74802237929551,34.788465872801,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Tift</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Tift County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.52660596793881,31.4574259517496,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Clinch</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Clinch County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.7062639695707,30.9149853847415,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Gwinnett</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Gwinnett County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.0235944786086,33.9618898687155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Jackson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Jackson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.5664641122998,34.133895706517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Walton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Walton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.7338390341816,33.7815458340279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Wilkes</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Wilkes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.7431819807538,33.7819187459983,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Baker</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Baker County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.4447245747275,31.3261091808138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Harris</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Harris County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.9088484079363,32.7360175170904,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Miller</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Miller County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.7307934658093,31.1640110495415,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Sumter</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Sumter County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.1969286600108,32.0399683343846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Tattnall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Tattnall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.0582181672485,32.0458911361984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Union</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Union County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.99076316213601,34.8340593591821,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Bryan</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Bryan County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.4436639083317,32.0145824369121,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Evans</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Evans County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.88693431842481,32.1567519925927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Floyd</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Floyd County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.21424520795721,34.2632185836257,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Hall</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Hall County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.8194874180021,34.3170748872588,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Heard</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Heard County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.1283389293794,33.2970382184536,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Irwin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Irwin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.27636602590719,31.6022059528195,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Towns</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Towns County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.73730617228451,34.9167227979358,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Banks</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Banks County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.4972570689536,34.3543205017192,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Burke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Burke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.00061192628471,33.0611039534486,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Catoosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Catoosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.13823426238871,34.9036284981194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Dade</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Dade County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.50441675760121,34.854635237755,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Lowndes</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Lowndes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.2676695712084,30.8338471586985,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_COUNTY_BEN HILL</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Ben Hill County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.22043431760351,31.7597706494608,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Fayette</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Fayette County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.49424957160581,33.4139332724651,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Terrell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Terrell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.43699207654591,31.7769567473342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Toombs</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Toombs County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.33128063613459,32.121531338792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Brooks</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Brooks County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.580154988296,30.8419477442806,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Cherokee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Cherokee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.47618643010659,34.2439811409399,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Fulton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Fulton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.46702088172459,33.7902773254955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Lamar</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Lamar County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.13946791699711,33.0765367219133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Quitman</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Quitman County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.01876146159491,31.8673483391029,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Bleckley</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Bleckley County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.32783989389191,32.4344553215199,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Chattahoochee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Chattahoochee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.78696359792291,32.3470048180318,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Elbert</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Elbert County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.84005565134891,34.1167526123674,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Habersham</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Habersham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.5311537304592,34.6309747835604,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Jasper</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Jasper County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.68802090305979,33.3164511606273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Jones</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Jones County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.5604394623553,33.0251145310194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Lee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Lee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.14118960028701,31.7795794439544,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Colquitt</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Colquitt County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.7688328069642,31.1883513470262,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Cook</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Cook County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.4305339366356,31.1540405082908,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Mitchell</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Mitchell County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.19425706686719,31.2253378686753,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Taliaferro</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Taliaferro County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.8788250149024,33.5660768711072,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Wheeler</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Wheeler County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.7245438632975,32.1169074369177,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Dodge</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Dodge County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.1684269972931,32.1721793363692,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Talbot</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Talbot County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.53299071930731,32.6995063178944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Calhoun</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Calhoun County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.6245141918715,31.5292245375312,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Effingham</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Effingham County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.3413578901788,32.3675063866126,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Fannin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Fannin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.3198575487697,34.8640807270322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Glynn</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Glynn County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.54075181267019,31.230975982693,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Taylor</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Taylor County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.2504874408133,32.5555033260876,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Appling</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Appling County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.2889146524488,31.7492336433494,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Coffee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Coffee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.8492243431468,31.5493633291775,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Henry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Henry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.154165630214,33.4530436589736,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Rabun</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Rabun County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.4020448753904,34.8817942340302,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Spalding</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Spalding County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.28406198124679,33.2608598696387,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Twiggs</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Twiggs County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.4270258599488,32.6671605793237,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Barrow</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Barrow County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.71272166481511,33.9931886409084,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Camden</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Camden County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6699552856997,30.9306209878078,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Clarke</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Clarke County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.36730672323699,33.9512888096354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Decatur</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Decatur County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.5790615622701,30.878331953646,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Putnam</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Putnam County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.37286370695701,33.3217557288886,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Telfair</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Telfair County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.93895711272469,31.929842301905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Wilkinson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Wilkinson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.1712421918978,32.802360068764,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Clay</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Clay County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.98009394417861,31.6262400058446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Lanier</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Lanier County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.06274924281929,31.0379506374188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_White</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">White County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.7471383064951,34.6464772326863,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Coweta</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Coweta County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.76337093421169,33.3533785697746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Gordon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Gordon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.8758161016578,34.503197377702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Lincoln</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Lincoln County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.4511412792592,33.7935890149534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Bulloch</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Bulloch County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.74313119680291,32.3967120987068,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Clayton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Clayton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.3575816826782,33.5418932066899,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Dawson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Dawson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.1705937142427,34.4442808694792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Early</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Early County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.90363222060731,31.3228281176585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Liberty</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Liberty County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.4949412615134,31.8283205280033,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Charlton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Charlton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.1379312991526,30.7817567504895,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Grady</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Grady County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.2344536072126,30.8746935701613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Long</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Long County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.74585930796169,31.7526196035735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Mcduffie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">McDuffie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.481390637549,33.4828306924751,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Muscogee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Muscogee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.87715019652489,32.5099846556898,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Polk</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Polk County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.1881310402761,34.0017872905561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Warren</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Warren County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.67668540684809,33.4089603306877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GA_County_Wayne</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Georgia_County_Names">
+				<SimpleData name="State">Georgia</SimpleData>
+				<SimpleData name="County">Wayne County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.9167513467081,31.5514036818165,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

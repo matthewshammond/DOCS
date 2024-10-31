@@ -1,0 +1,17 @@
+<!-- hospital_app/templates/registration/password_reset_complete.html -->
+
+{% extends "base.html" %} 
+{% load static %}
+
+{% block content %}
+<div class="text-center">
+    <!-- Logo -->
+    <img src="{% static 'docs_app/docs3.png' %}" alt="Dispatching Operational Chopper Software" class="mb-4" style="height: 306px;">
+
+    <h2>Invalid Invite</h2>
+    <p>
+      You do not have a valid invite to register.
+    </p>
+    <a href="{% url 'login' %}">Go to Login</a>
+</div>
+{% endblock %}

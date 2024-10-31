@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Florida County Names</name>
+	<description>Florida County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FL_County_Flagler</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Flagler County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.31356513739691,29.4613917283309,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Jefferson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Jefferson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.89532085754951,30.4375446698938,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Orange</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Orange County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.32347624204731,28.5144129939229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Pinellas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Pinellas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.72531713010299,27.9195253818801,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Hendry</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Hendry County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1658685128337,26.5534873239309,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Hillsborough</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Hillsborough County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.3083890123747,27.9294690583577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Holmes</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Holmes County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.8140424263007,30.8679535595701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Polk</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Polk County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6974823842673,27.9488673905396,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Putnam</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Putnam County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.74429232194311,29.6086774779353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Hernando</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Hernando County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.42401167317411,28.553665157249,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Lee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Lee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.8195016425754,26.5793361704554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Washington</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Washington County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.6653898530836,30.6106092622542,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Baker</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Baker County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.2845917037998,30.3310891892929,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Bradford</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Bradford County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.16875345242531,29.9500358930568,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Brevard</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Brevard County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.732312823358,28.2937151277693,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Gulf</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Gulf County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.22635608686829,29.9564570945691,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Indian_River</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Indian River County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.6064132800275,27.6943207829729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Charlotte</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Charlotte County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.91135677458669,26.9057590041336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Collier</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Collier County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.3474117041486,26.1108395768827,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Citrus</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Citrus County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.478711688597,28.8491001037278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Seminole</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Seminole County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.2362599943002,28.7169644693388,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Bay</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Bay County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.6202290486125,30.265203039435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Levy</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Levy County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.7430369715094,29.3186556400675,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Liberty</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Liberty County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.88291266674121,30.2413167091255,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Pasco</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Pasco County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.3914062490272,28.3092940575754,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Hardee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Hardee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.8099817746682,27.4927078964819,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Jackson</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Jackson County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.2155138353402,30.7954467693645,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Santa_Rosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Santa Rosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.0218590197245,30.7003979332709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Walton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Walton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.16966280667521,30.6435820859067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Glades</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Glades County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1890218255712,26.9563808162652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Lafayette</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Lafayette County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.18107884564169,29.9854798772269,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Sarasota</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Sarasota County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.3314549376246,27.1844379797078,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Columbia</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Columbia County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.62152257229241,30.2243287694614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Desoto</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">DeSoto County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.8094864674938,27.1863662708551,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Dixie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Dixie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.9113976315042,29.8229463383837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Dixie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Dixie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.1587536721767,29.6085745846759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Manatee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Manatee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.31526694537941,27.4718657033255,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_St_Johns</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">St. Johns County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.4406606417767,29.9016304796178,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Osceola</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Osceola County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1494386269444,28.0626490110714,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Duval</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Duval County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.6714363002187,30.3314164445988,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Okeechobee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Okeechobee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.888578496831,27.3864113088805,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Volusia</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Volusia County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.1818859542616,29.0584034938779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Monroe</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Monroe County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.0541609937207,25.5100041981768,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Palm_Beach</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Palm Beach County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.46549691020959,26.6475699930582,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Wakulla</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Wakulla County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.4007256455746,30.1673254346759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Franklin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Franklin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.8015358963813,29.8898043035474,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Hamilton</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Hamilton County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.9479340304659,30.4963662317701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Calhoun</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Calhoun County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-85.19714229787721,30.4060324600054,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Suwannee</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Suwannee County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.99149825678241,30.1955704150831,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Lake</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Lake County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.711299333749,28.7615475165475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Gilchrist</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Gilchrist County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.8003706320509,29.725823651991,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Nassau</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Nassau County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.801933548058,30.6107229131335,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Okaloosa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Okaloosa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.5917005314151,30.6912863464649,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Madison</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Madison County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.4701187901864,30.4441026804382,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_St_Lucie</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">St. Lucie County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.47205353112069,27.3772764446255,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Sumter</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Sumter County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.08102002550039,28.7047826324546,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Gadsden</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Gadsden County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.613545429605,30.5794756260485,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Leon</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Leon County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-84.2779070473033,30.4579925073027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Taylor</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Taylor County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-83.6035378801884,30.0470344847206,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Union</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Union County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.3713886394861,30.0439000868395,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Alachua</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Alachua County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.3578035638235,29.6748995243125,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Broward</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Broward County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.4870653705692,26.1523156517069,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Escambia</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Escambia County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.36296326699819,30.6689602836856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Marion</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Marion County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-82.0566213618651,29.2102944463572,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Martin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Martin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.43145387811749,27.0774930423323,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Clay</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Clay County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.85785147063859,29.9830743093187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Highlands</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Highlands County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-81.34102173218869,27.3433162917555,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FL_County_Miami-dade</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Florida_County_Names">
+				<SimpleData name="State">Florida</SimpleData>
+				<SimpleData name="County">Miami-Dade County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-80.563734878087,25.6160359455783,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
