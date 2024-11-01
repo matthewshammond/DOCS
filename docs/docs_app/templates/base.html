@@ -464,7 +464,12 @@
                     const url = window.URL.createObjectURL(blob);
                     const link = document.createElement('a');
                     link.href = url;
-                    link.download = `${selectedPrograms[0].code}.zip`;
+                    // Set filename based on selection
+                    if (selectedPrograms.length === 1) {
+                        link.download = `${selectedPrograms[0].code}.zip`;
+                    } else {
+                        link.download = 'DOCS.zip';
+                    }
                     document.body.appendChild(link);
                     link.click();
                     document.body.removeChild(link);
