@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Nebraska County Names</name>
+    <description>Nebraska County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>NE_County_Keya_Paha</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Keya Paha County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.7124023804446,42.8788740903202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Sherman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Sherman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.9762113524628,41.2205722301817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Cass</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Cass County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.1408911702373,40.9097328140558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Otoe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Otoe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.1347865841132,40.6484950823054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Stanton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Stanton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.19390736200882,41.9169458262881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Deuel</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Deuel County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.333862869359,41.1115559359322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Hayes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Hayes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.061834277394,40.5247635812499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Garfield</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Garfield County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.9913922514601,41.914342140944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Johnson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Johnson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.2651143545074,40.3926421470238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Lancaster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Lancaster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6877540158771,40.7841634410647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.22200522192941,41.5310655044983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Dawes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Dawes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.135388062721,42.7197424709779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Phelps</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Phelps County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.41455336455749,40.5111104465386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Webster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Webster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.49996722595239,40.1764398254386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Arthur</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Arthur County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.695810254421,41.5689744250019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Boyd</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Boyd County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.76653660673952,42.8997066124908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.9528058635842,40.1763191682217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Kimball</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Kimball County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.714886660703,41.1977678854665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Clay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Clay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.05127988455121,40.5244220167763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Colfax</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Colfax County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.08645120891302,41.5740407352344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Gosper</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Gosper County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.8306761736105,40.5148214748537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Valley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Valley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.9818853555954,41.5672892653822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Buffalo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Buffalo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0749773295117,40.8551514409534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Dakota</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Dakota County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.56452468983649,42.3911785623707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Keith</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Keith County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.661492556704,41.1988468093259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Loup</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Loup County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.4543951128486,41.9138540854199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Pierce</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Pierce County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.6012970351364,42.2643432007102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Sioux</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Sioux County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.758882527858,42.4876642963567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Wheeler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Wheeler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.52818871585832,41.9147571449824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Chase</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Chase County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.697986537439,40.5241736774799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Dundy</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Dundy County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.687944118831,40.1761940658916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Furnas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Furnas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.9123123772399,40.1764373119635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Nemaha</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Nemaha County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.8498455111324,40.3876460917892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Rock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Rock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.4499058091867,42.4212947916399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Thomas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Thomas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.555813259952,41.9136352711228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Banner</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Banner County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.710542158495,41.5460055342215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Douglas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Douglas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.15432337051402,41.2953307409694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Knox</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Knox County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.89190591427422,42.6368223302975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Seward</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Seward County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.13951565998001,40.8723715422713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Thurston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Thurston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.54404883629822,42.1581948031885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Scotts_Bluff</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Scotts Bluff County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.70795870764,41.8505528097383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Antelope</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Antelope County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.06667870731469,42.1769045127331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Dawson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Dawson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.8195677689384,40.8699339459327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.74056888613,41.9149939588154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Madison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Madison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.60076235806568,41.9166810083805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Nance</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Nance County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.99218012461,41.3973463903637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Nuckolls</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Nuckolls County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.04719368888578,40.176375439158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Cedar</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Cedar County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.2524187510503,42.5992557168732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Sarpy</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Sarpy County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.11188439724188,41.112959715097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.1192900013516,42.2092832500228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Brown</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Brown County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.92949963738091,42.4300087227783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Kearney</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Kearney County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.94802841002431,40.5066997176132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Polk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Polk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.56844468224628,41.1868943931655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Sheridan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Sheridan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.408914663283,42.5047505707339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Greeley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Greeley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.52119302257881,41.5674460337033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Burt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Burt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.3286404539414,41.8515408209259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Cherry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Cherry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.118602312962,42.5449799479186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Howard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Howard County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.51712354741539,41.220062456178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.14272990162399,40.1757307519173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_McPherson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">McPherson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.06043197434,41.5681529896564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_York</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">York County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.59710566929138,40.8727361816243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Morrill</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Morrill County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.010437838247,41.7159859086057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Boone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Boone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.06725273245462,41.7068118889801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Custer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Custer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.72615778453991,41.3942654898744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Garden</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Garden County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.33540724758,41.6193808755374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Hitchcock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Hitchcock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.042273197745,40.1763267420324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Logan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Logan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.482730409402,41.5665639977353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Pawnee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Pawnee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.23706433061811,40.1314575457427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Saunders</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Saunders County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6373978176555,41.2263446427857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Saline</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Saline County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.14094938232019,40.5240691071363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Blaine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Blaine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.9768150417587,41.9127733897912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Box_Butte</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Box Butte County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.085672508156,42.2197570373533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Frontier</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Frontier County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.394136823359,40.5300731872313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Hooker</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Hooker County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.135281547669,41.9160484794631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Merrick</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Merrick County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.03806324578402,41.169017336438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Thayer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Thayer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.59495182961069,40.1762412601388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Gage</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Gage County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6894740830168,40.2618922826112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.745294520793,41.0477325771533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Butler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Butler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.13176028729562,41.2260870759357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Hamilton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Hamilton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.02286065797441,40.8730118993033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Adams</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Adams County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.50121004715258,40.5244736633747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Dixon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Dixon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.86774167972659,42.4931202077363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Hall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Hall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.50219054670291,40.8725882694602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Perkins</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Perkins County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.649663574049,40.8509445703498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Richardson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Richardson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.71757370863929,40.1250435110723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Cuming</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Cuming County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7873784044686,41.9163859236789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Harlan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Harlan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.40464598128088,40.1764997973766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Platte</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Platte County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.52112106533721,41.5712776352697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Dodge</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Dodge County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6539805712474,41.5778794986324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Fillmore</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Fillmore County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.5965110884499,40.5246494414747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Cheyenne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Cheyenne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.995008290324,41.2197459414216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Holt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Holt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.78382123591669,42.4557069871762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE_County_Red_Willow</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nebraska</SimpleData>
+					<SimpleData name="County">Red Willow County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.476888701872,40.1758235153973,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kentucky County Names</name>
+    <description>Kentucky County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>KY_County_Calloway</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Calloway County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.2722731316325,36.6210374282318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Taylor</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Taylor County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.3279239631959,37.3664874309388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Bourbon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Bourbon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.2172482636641,38.2067597774837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Clinton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Clinton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.1362162398394,36.7274253916154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Fulton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Fulton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.1872848240414,36.5540179565621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Livingston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Livingston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.3536973389614,37.2095750024903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Monroe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Monroe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.716529010972,36.71214301201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Oldham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Oldham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.4483467683856,38.399424830434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Barren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Barren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.9336398672926,36.9655782896806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Clark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Clark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.1472661462229,37.9707957083476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Hancock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Hancock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.7778940450587,37.8414596357371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Knox</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Knox County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.854050157386,36.8906763935875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Lewis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Lewis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.377963246034,38.5315060536224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.8769875121076,38.2392461144929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Gallatin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Gallatin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.859329833969,38.7568253739513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Lawrence</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Lawrence County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.7348526745628,38.0678738741049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_McLean</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">McLean County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.2635671868687,37.5291034283851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Woodford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Woodford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.7436011196727,38.0422308174424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Hardin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Hardin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.96344296314589,37.6979022465253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_McCreary</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">McCreary County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.48413089735121,36.7370832869168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Rockcastle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Rockcastle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.315989078835,37.3651713685068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Nelson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Nelson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.4661451251463,37.8049837495789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Trimble</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Trimble County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.3375356091347,38.6129923875266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Bath</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Bath County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.74262159001471,38.1449189256161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Trigg</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Trigg County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.8733615439688,36.8063505344411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Henry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Henry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.11898309618471,38.448481417013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Laurel</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Laurel County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.1177656580941,37.1107270483486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Casey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Casey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.9283459014738,37.322350374028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Floyd</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Floyd County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.7456861335674,37.5571592730283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Hopkins</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Hopkins County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.5408213236171,37.3088257372198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Muhlenberg</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Muhlenberg County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.1419774270699,37.215791130024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Russell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Russell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.0586453441302,36.9910974287455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Carroll</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Carroll County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.12357177008251,38.6678089738213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Carter</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Carter County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.04953594722819,38.3181965144421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Garrard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Garrard County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.53769291431141,37.6395925859676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Marion</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Marion County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.26963774472,37.5525601054069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Scott</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Scott County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.58404445918799,38.2914424810737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Webster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Webster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.6833336454206,37.5183212927257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Ohio</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Ohio County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.8488582214475,37.4781846783674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.6245978205226,38.6488643416069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.66081028845841,37.4553100006706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Mason</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Mason County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.824130152995,38.5951550639902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Boyd</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Boyd County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.6877748622252,38.3595511752626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Boyle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Boyle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.86672847767839,37.6243928421814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Daviess</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Daviess County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.0872856845489,37.7317604975173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Grayson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Grayson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.3439665620744,37.4607769904273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Harrison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Harrison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.3314782429713,38.4418237460378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Henderson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Henderson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.5729197038073,37.7957841949987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Larue</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Larue County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.6980493433549,37.5457161180866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Letcher</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Letcher County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.8552497504391,37.12116211041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Logan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Logan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.87892101552519,36.8596854254771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Robertson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Robertson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.0518955283337,38.5188859563281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Whitley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Whitley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.1451815182466,36.7581685325934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Carlisle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Carlisle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.97096542994269,36.8532858983118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Fleming</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Fleming County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.6966481165687,38.3701538457111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Greenup</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Greenup County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.9222008871245,38.545682941455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Lyon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Lyon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.0831982352404,37.0190371836136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Pendleton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Pendleton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.3602616195308,38.6956641911034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Simpson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Simpson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.5822544009898,36.7419454087332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Spencer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Spencer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.3277546468497,38.0325362036915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Union</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Union County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.94536005932871,37.6584476697027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Clay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Clay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.7146267165275,37.1596778104384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Elliott</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Elliott County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.0975300197593,38.1178991091503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Green</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Green County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5531262235601,37.2640296999741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Magoffin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Magoffin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.0649561852282,37.7064823705945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Marshall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Marshall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.3293738295843,36.8834322045865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Metcalfe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Metcalfe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.6292247776566,36.9905334869895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Breathitt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Breathitt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.324189749315,37.5215933014797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Estill</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Estill County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.9642383912704,37.6923918347539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Owen</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Owen County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.8280951653938,38.519630177507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Wolfe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Wolfe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.4931224762168,37.7393637492715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Allen</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Allen County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.1904275480896,36.7512540295271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Bracken</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Bracken County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.09019667599181,38.6887601429134,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Madison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Madison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.2780315088888,37.7201663829479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Menifee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Menifee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.59877419974021,37.9413622088293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Nicholas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Nicholas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.0152447567082,38.3355369682697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Perry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Perry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.22153165053101,37.2443129080247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Todd</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Todd County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.1792159750111,36.8356637499898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Warren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Warren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.4238168738223,36.9935723724046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.17477724968531,37.7534268473532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Adair</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Adair County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.2806190044529,37.1041643162255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Bullitt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Bullitt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.69590025238701,37.9701363602432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Hickman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Hickman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.9761306870334,36.6781358235609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Leslie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Leslie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.38118475568299,37.0939772045438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Hart</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Hart County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.884646499995,37.2999088096781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Mercer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Mercer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.8745064325748,37.8110159221958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Ballard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Ballard County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.99947788218211,37.058599261354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Graves</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Graves County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.6511922280613,36.7231008619361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Harlan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Harlan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.2179374365694,36.8569637480176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Montgomery</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Montgomery County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.9131527321741,38.0335127731355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Boone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Boone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.7278841319376,38.9698892254198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Kenton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Kenton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.5333310826265,38.933398237726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Morgan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Morgan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.2588566283637,37.922348598472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Anderson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Anderson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.9909191326516,38.0039817243462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Butler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Butler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.6816025191188,37.2072856883701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.0057569532609,37.4197708710039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Breckinridge</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Breckinridge County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.4293006803583,37.7734520842582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Knott</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Knott County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.9541212501391,37.354030278364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Meade</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Meade County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.2169918037622,37.9697378257062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Christian</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Christian County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.49041036039149,36.8941937377855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Cumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Cumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.3885550257951,36.7865875216592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.6591201570139,38.187174674383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Jessamine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Jessamine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.5809406509922,37.8720224585776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_McCracken</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">McCracken County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.7127376457901,37.0539531366129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Martin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Martin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.5132811824849,37.8017063147184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Rowan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Rowan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.4209635012496,38.1962117449529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Caldwell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Caldwell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.86786043210419,37.1454014421559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Fayette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Fayette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.4586842212336,38.0422409309855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Powell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Powell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.8236230348034,37.8311224137899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.8286293641703,36.8012544314744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Campbell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Campbell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.3795101385807,38.9465344193773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Edmonson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Edmonson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.2384218619372,37.2087709507809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Lee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Lee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.7161421378745,37.5947891511234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Owsley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Owsley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.6833240505036,37.4191579479802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Pike</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Pike County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.3958373751706,37.4690848262903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Shelby</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Shelby County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.1947488739163,38.2154623512534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Bell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Bell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.6741001012838,36.730647277493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Crittenden</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Crittenden County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.0974338628145,37.3526563269238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Johnson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Johnson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.8315502290921,37.8466312275456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KY_County_Pulaski</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Kentucky</SimpleData>
+					<SimpleData name="County">Pulaski County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.5771914350682,37.1038909724264,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

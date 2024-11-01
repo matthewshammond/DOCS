@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>West Virginia County Names</name>
+    <description>West Virginia County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>WV_County_Clay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Clay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.07507233413919,38.4625105870856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Taylor</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Taylor County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0462782276702,39.3359923803189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Boone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Boone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.71151122732699,38.0228171992382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Hardy</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Hardy County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.8579088003882,39.007516174033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Logan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Logan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.935506398177,37.8313327419877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_McDowell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">McDowell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.6536072538957,37.3784454178721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Ohio</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Ohio County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.6189107794373,40.09694312399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Webster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Webster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.4218742434002,38.4947483035905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Brooke</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Brooke County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.5764527275233,40.2738221688085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Wirt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Wirt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.3786514296184,39.0224780874767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Wood</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Wood County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.5150553114369,39.2111539786954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Kanawha</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Kanawha County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.5280403444702,38.3365553063101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Cabell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Cabell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.24173947676231,38.4202523598104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Fayette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Fayette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.0811750978628,38.028774652553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Gilmer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Gilmer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.85705184674531,38.9241100596342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Mason</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Mason County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.02658077549719,38.7697164893029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Upshur</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Upshur County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.2334289108241,38.8978092120672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Marion</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Marion County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.2433638680783,39.5099640275761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Tyler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Tyler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.8848728873037,39.4652157934128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Pleasants</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Pleasants County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1604550540675,39.3709970810652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.8628239508578,39.3076494647858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Hancock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Hancock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.57385572865731,40.5218396880991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Tucker</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Tucker County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.5649980626129,39.1136070117627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.6747797249003,38.8344506641505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Marshall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Marshall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.66339429421539,39.8605998287319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Berkeley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Berkeley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.02754188686031,39.4641051208595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Braxton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Braxton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.719242701854,38.6998325947752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.19555319698151,39.1051020443551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Monroe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Monroe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.5505338113901,37.5603386500343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Wyoming</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Wyoming County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.5491939308999,37.6096517524921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Calhoun</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Calhoun County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1176402566506,38.8444731716333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Greenbrier</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Greenbrier County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.452946424366,37.9469010497681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Hampshire</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Hampshire County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.6141373488209,39.3170429091459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Preston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Preston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.6681534857228,39.4693379445656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.42700114368181,38.1459144654068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Lewis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Lewis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.5022113904086,38.9959588008029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Harrison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Harrison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.37989822281151,39.283540626991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.0703460512981,38.1753596458543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Putnam</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Putnam County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.90899325327641,38.508639813222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Wetzel</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Wetzel County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.63919203428399,39.6052659143811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Barbour</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Barbour County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0030048538658,39.1329520807026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Randolph</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Randolph County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.8757824588271,38.7747577112072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Mingo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Mingo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.1347078016711,37.7264558588361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Pocahontas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Pocahontas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0078088989037,38.33179093956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Ritchie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Ritchie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.0630371781469,39.1782530951734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Mineral</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Mineral County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.94377897451049,39.4146674448458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Doddridge</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Doddridge County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.706984954616,39.2691405819299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Summers</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Summers County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.8585682529087,37.6558654069721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Nicholas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Nicholas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.799343771981,38.2916477019536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Pendleton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Pendleton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.3508782351995,38.6807298917296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Mercer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Mercer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1113968569059,37.4054565781927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Morgan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Morgan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2577516091289,39.5604009336782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Monongalia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Monongalia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.04661647185939,39.6303350278688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Raleigh</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Raleigh County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.24860371247929,37.7712959382026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WV_County_Roane</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">West Virginia</SimpleData>
+					<SimpleData name="County">Roane County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.3483490482331,38.713970488224,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

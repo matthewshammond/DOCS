@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>New Hampshire County Names</name>
+    <description>New Hampshire County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>NH_County_Sullivan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Sullivan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.2221650592107,43.3613272207481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Carroll</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Carroll County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.2031150237312,43.8738068731259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Strafford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Strafford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.02885401165,43.2969779433488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Cheshire</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Cheshire County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.25125407399091,42.9193501355035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Hillsborough</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Hillsborough County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.71609825469839,42.9153276662829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Merrimack</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Merrimack County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.68023706287281,43.2974530295487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Coos</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Coos County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.3055670894409,44.6896005692497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Rockingham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Rockingham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.1253958383551,42.9875667375956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Belknap</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Belknap County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.4226520407106,43.5178888339164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NH_County_Grafton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Hampshire</SimpleData>
+					<SimpleData name="County">Grafton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.8208062452926,43.9406731961554,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

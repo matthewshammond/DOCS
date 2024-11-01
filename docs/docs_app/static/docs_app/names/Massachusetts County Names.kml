@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Massachusetts County Names</name>
+    <description>Massachusetts County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>MA_County_Hampden</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Hampden County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.63162742786859,42.1350903619691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Dukes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Dukes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.6494669636845,41.3960945074897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Barnstable</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Barnstable County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.2903846415275,41.7243554066996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Plymouth</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Plymouth County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.8114700130452,41.951006528253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Bristol</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Bristol County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.1144401763416,41.7972452398053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Hampshire</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Hampshire County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.66374560175871,42.3401534690145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Worcester</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Worcester County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.9077391607391,42.3514007282712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.5918093692211,42.5831269196174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Nantucket</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Nantucket County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.06894934811319,41.2831327026767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Essex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Essex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.95270012352741,42.6733227217697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Berkshire</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Berkshire County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.2063570992471,42.3707066113136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Suffolk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Suffolk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.0741999229563,42.332881399888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Norfolk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Norfolk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.21195514832969,42.16019889902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_County_Middlesex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Massachusetts</SimpleData>
+					<SimpleData name="County">Middlesex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.3917738685938,42.4855318598949,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

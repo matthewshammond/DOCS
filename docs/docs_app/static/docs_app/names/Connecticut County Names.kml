@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Connecticut County Names</name>
+    <description>Connecticut County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>CT_County_Greater_Bridgeport_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Greater Bridgeport Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.2314369395507,41.2428393571442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_Western_Connecticut_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Western Connecticut Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.4474735307174,41.3227611770292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_Northeastern_Connecticut_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Northeastern Connecticut Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.97694092202291,41.8269872756162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_Lower_Connecticut_River_Valley_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Lower Connecticut River Valley Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.50719306219941,41.449916532661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_Naugatuck_Valley_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Naugatuck Valley Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.0859975054811,41.523148206268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_South_Central_Connecticut_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">South Central Connecticut Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.8444844749893,41.3613460665101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_Southeastern_Connecticut_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Southeastern Connecticut Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.10001340604801,41.5023008526041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_Capitol_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Capitol Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.5720519255818,41.8184661826806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CT_County_Northwest_Hills_Planning_Region</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Connecticut</SimpleData>
+					<SimpleData name="County">Northwest Hills Planning Region</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.2211892835977,41.8468934345692,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pennsylvania County Names</name>
+    <description>Pennsylvania County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>PA_County_Clarion</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Clarion County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.4209886917623,41.1924047615517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Forest</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Forest County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.2360417066923,41.5129952519089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Lycoming</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Lycoming County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.06452844545259,41.3433740244585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Cambria</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Cambria County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.71339824776901,40.4951625737783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Crawford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Crawford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.10619776151979,41.6847045929256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Perry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Perry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.26232224621489,40.398403801082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Tioga</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Tioga County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.2542285846622,41.7721640881753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Bradford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Bradford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.5153578819321,41.7886925799946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Cumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Cumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.265377861693,40.1636729439016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Centre</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Centre County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.8199289965382,40.9189278602224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Chester</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Chester County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.74829890330049,39.9731046079388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Elk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Elk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.64911017268641,41.4251359121988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Somerset</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Somerset County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.02834894979389,39.9725312091362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Blair</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Blair County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.34830785964201,40.4810642470958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Bucks</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Bucks County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.10687662675861,40.3369488803772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.7212359928066,39.9274064925402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Berks</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Berks County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.9259854492348,40.4163134581309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Mifflin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Mifflin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.6170382431573,40.610400924787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Schuylkill</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Schuylkill County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.2159857211599,40.705790708584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Potter</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Potter County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.89582991498951,41.7449011780998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Armstrong</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Armstrong County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.4645833767881,40.8121020131739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Carbon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Carbon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.7088860392379,40.9182298991374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Clinton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Clinton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.6385287520466,41.2339473739185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Greene</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Greene County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.2228954559809,39.8538024468433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Lancaster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Lancaster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.24764608084431,40.0423602601464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.24832732434309,40.1893723129503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Dauphin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Dauphin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.7794393530689,40.4154447290587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Luzerne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Luzerne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.9892279657022,41.1770145869591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Pike</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Pike County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.033814481794,41.3319833715637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Allegheny</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Allegheny County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.9812203478709,40.4688022028575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Indiana</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Indiana County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.0875634445817,40.6519930196545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Lawrence</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Lawrence County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.3347222390657,40.9912074268021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Lebanon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Lebanon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4577071185806,40.3672197869527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Mercer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Mercer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.25768789257231,41.3022023961214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.99943042330889,41.128172814527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Lackawanna</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Lackawanna County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.6091922083033,41.4366728919265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Montgomery</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Montgomery County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.3672571452452,40.2108218881036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Northampton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Northampton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.30762941814081,40.7541291763246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.3032294742796,41.6487445989078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Adams</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Adams County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.2178489679229,39.8715065741531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Fayette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Fayette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.6474024208152,39.9201249961796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Montour</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Montour County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.6586448614253,41.0279200808483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Butler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Butler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.913319311352,40.9120163835034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Fulton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Fulton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.1126536732253,39.9253618826061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Lehigh</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Lehigh County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.5923509902626,40.6126742479971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Monroe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Monroe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.3394762416947,41.0580345145104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Westmoreland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Westmoreland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.4667728033163,40.3109121307696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Bedford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Bedford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.49025494804791,40.0064419976383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Northumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Northumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.70943684040699,40.8519590153788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Philadelphia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Philadelphia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.13392668270269,40.0076524884021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Sullivan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Sullivan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.5122253394097,41.4461474185959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Beaver</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Beaver County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.3493029904168,40.6822798743112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Erie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Erie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.03271006316901,41.9925046262499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Juniata</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Juniata County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.40226087300741,40.5310063792353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Warren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Warren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.2740473328556,41.814497830852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Cameron</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Cameron County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2039872871897,41.4367162006015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Clearfield</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Clearfield County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.4742451224851,41.0000259855535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Columbia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Columbia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4051814435965,41.0485920882919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Delaware</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Delaware County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.39889818276041,39.9167199801036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_McKean</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">McKean County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.5690128645486,41.8076480676742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Venango</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Venango County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.7579735185722,41.4009891202321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_York</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">York County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.7264958927389,39.9199294698496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Huntingdon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Huntingdon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.9812643797014,40.4169455422602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Snyder</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Snyder County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.0700826511668,40.7698428424956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Susquehanna</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Susquehanna County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.80068684509111,41.8213717654947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Union</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Union County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.0622553968241,40.9630169788156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA_County_Wyoming</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Pennsylvania</SimpleData>
+					<SimpleData name="County">Wyoming County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.01639448988951,41.5184115670581,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

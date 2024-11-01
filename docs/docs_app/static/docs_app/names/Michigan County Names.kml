@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Michigan County Names</name>
+    <description>Michigan County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>MI_County_Allegan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Allegan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.8883102959508,42.59126659908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Clinton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Clinton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.6015305076878,42.943660463816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Genesee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Genesee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.7066779782178,43.0217089750509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Emmet</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Emmet County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.89037469530621,45.52014099197149,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Grand_Traverse</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Grand Traverse County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5604864319891,44.6687408658782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Keweenaw</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Keweenaw County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.43444862429909,47.627692353536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Leelanau</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Leelanau County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.81204659638929,44.9384707451868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Montmorency</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Montmorency County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.12722674697849,45.0275963746649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Schoolcraft</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Schoolcraft County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.1996212193458,46.1966608330395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Gratiot</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Gratiot County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.6049189972577,43.2927303347864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Lenawee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Lenawee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.0664031917226,41.8951179718707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Mecosta</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Mecosta County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.3246311628201,43.640789161667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Osceola</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Osceola County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.3252474650954,43.9898123577932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Manistee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Manistee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.0568243416481,44.3330410773952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Oakland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Oakland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.3858090758328,42.6603780974673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Tuscola</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Tuscola County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.4167138892506,43.4640306157782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Van_Buren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Van Buren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.0188388907148,42.251286651387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Calhoun</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Calhoun County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.00559779805501,42.2465316323161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Luce</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Luce County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.544453991887,46.4705737560212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Midland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Midland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.3881319878773,43.6468379047297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Dickinson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Dickinson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.8703149317688,46.0091641986016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Missaukee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Missaukee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.09474370585809,44.3374020488977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Oscoda</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Oscoda County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.1297746099374,44.6817638929593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Wexford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Wexford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5784614755047,44.3383291940403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_St_Clair</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">St. Clair County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.6805603467902,42.9340258270533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_St_Joseph</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">St. Joseph County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5277535117594,41.9144403573917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Arenac</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Arenac County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.8952711284829,44.0655453204187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Gladwin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Gladwin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.38827514068601,43.9906480439834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Iron</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Iron County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.5305482792204,46.2086902040723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Livingston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Livingston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.9115389888652,42.6029209856673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Kalamazoo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Kalamazoo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5311885392299,42.2454512770445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Montcalm</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Montcalm County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.1525181436229,43.3109506109578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Newaygo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Newaygo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.8009152263044,43.5541861860352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Shiawassee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Shiawassee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.1467238805883,42.9537309182226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Charlevoix</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Charlevoix County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.1241193000531,45.2994941206143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Gogebic</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Gogebic County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.69425360835631,46.4087344156225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Kent</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Kent County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5492892035071,43.0321360389135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Monroe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Monroe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.53943209524191,41.9291088759871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Alger</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Alger County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.60390939105341,46.4086404896803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Antrim</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Antrim County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.14014852096849,44.999054259464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Ionia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Ionia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.0746148695538,42.945079102202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Benzie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Benzie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.0155085663104,44.6387227584415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Marquette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Marquette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.6415565992171,46.4312553993179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Menominee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Menominee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.55664274450579,45.5800990763192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Crawford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Crawford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.61026827258689,44.6836827402974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Otsego</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Otsego County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.5990196991944,45.02142204182761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Roscommon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Roscommon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.611586409794,44.3355618247508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Saginaw</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Saginaw County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.0531654527708,43.3350359734174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.2830746103059,42.2822326236206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Hillsdale</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Hillsdale County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.5929548352494,41.8877798150672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Kalkaska</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Kalkaska County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.09018442747249,44.684676621367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Mason</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Mason County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.2499418527542,43.9951671318112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Bay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Bay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.99245085281299,43.7074867805816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Delta</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Delta County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.9242255527968,45.91943932551409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Presque_Isle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Presque Isle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.9180390529886,45.3401230298034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Alcona</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Alcona County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.5938143663025,44.6854242566525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Baraga</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Baraga County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.36520925403779,46.6626073202127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Cass</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Cass County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.9934913720883,41.9153629585838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Isabella</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Isabella County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.8467895648749,43.6406119696623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Alpena</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Alpena County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.6283629733189,45.03482706789381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Cheboygan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Cheboygan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.49989508180521,45.44629739810651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Chippewa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Chippewa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.578946292805,46.3056174261773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Houghton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Houghton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.6875356273257,46.8976288493241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Huron</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Huron County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.0186795786624,43.833248480194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Lake</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Lake County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.80162908790059,43.9901135342039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Ogemaw</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Ogemaw County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.1264527810059,44.3349560696252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Berrien</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Berrien County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.4123126522658,41.9546180668645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Branch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Branch County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.0590325600518,41.9161305701224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Clare</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Clare County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.84784068126859,43.9878981273696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Eaton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Eaton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.83831577564401,42.5960723233287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Muskegon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Muskegon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.15200688155259,43.2912451475308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Ingham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Ingham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.37353841176061,42.5970886755157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Iosco</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Iosco County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.6359099010437,44.3558883162827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Lapeer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Lapeer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.2217757295514,43.0901393970823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Barry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Barry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.3089660890553,42.5950314031593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.4234269025401,42.2484904527144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Ontonagon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Ontonagon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.31474817803129,46.6643973754441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Ottawa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Ottawa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.9960486148569,42.959878939479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Sanilac</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Sanilac County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.8202365362128,43.4235797740954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Washtenaw</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Washtenaw County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.8387468395243,42.2532095253334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Oceana</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Oceana County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.2675465250429,43.6409484581108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Mackinac</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Mackinac County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.08752248557791,46.0805781008659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MI_County_Macomb</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Michigan</SimpleData>
+					<SimpleData name="County">Macomb County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.93237675601721,42.6957701302288,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

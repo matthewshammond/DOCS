@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Illinois County Names</name>
+    <description>Illinois County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>IL_County_Kane</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Kane County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.4286365618979,41.9388456772869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Peoria</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Peoria County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.76004492697309,40.7880393646937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Coles</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Coles County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.2217538693524,39.5202856162978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Gallatin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Gallatin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.23046622189111,37.7628058117017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Jasper</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Jasper County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.15381922747579,39.0100691781069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Madison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Madison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.9049508038692,38.8297421077138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Pope</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Pope County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.5615294694865,37.4126822362329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_McDonough</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">McDonough County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.6778568962219,40.456176965665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Saline</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Saline County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.5407523186919,37.753101660153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Vermilion</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Vermilion County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.73279922120619,40.1834345031435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_DeKalb</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">DeKalb County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.77030888648299,41.8935426218818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Piatt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Piatt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.5910986296404,40.0103444399784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.41042083531249,38.3522347358435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Cass</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Cass County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.24752353272092,39.9734957586669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Clark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Clark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.7876799780601,39.3336089960593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_McLean</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">McLean County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.84735493833649,40.4908747024697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Champaign</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Champaign County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.1991526188822,40.1400928736422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Christian</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Christian County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.2772685362775,39.545829295025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Hamilton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Hamilton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.5391037643379,38.0815526933401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Henry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Henry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.131426897008,41.3531284406883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Scott</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Scott County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.4747416032201,39.6440757766351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.92412989268669,37.99229598488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Putnam</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Putnam County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.2857707362728,41.204443742867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.4255646035933,38.4295775357981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Ford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Ford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.2233105227278,40.5971848687094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_LaSalle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">LaSalle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.88594170006949,41.3439868002017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Pike</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Pike County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.88636531396861,39.6225029149602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Shelby</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Shelby County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.8055290234324,39.3911350767775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Will</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Will County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.9786451111863,41.4450330122585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Williamson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Williamson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.9299354916707,37.730264462986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_De_Witt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">De Witt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.90409218108211,40.174613176037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_DuPage</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">DuPage County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.0856002601811,41.8519587798396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Iroquois</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Iroquois County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.8243393572764,40.7472433984368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.3821339350885,37.7851253390167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Lee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Lee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.3002979394504,41.7461027947278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Union</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Union County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.2551501701507,37.4712926179687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Fayette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Fayette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.0241547838543,39.0001785038395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Kankakee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Kankakee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.8618275806103,41.1377052621342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Jersey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Jersey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.3564359045388,39.0854686261446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Stephenson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Stephenson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.66226243007939,42.3517954237341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Clay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Clay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.4902523254371,38.7541647045042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Effingham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Effingham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.5898726152882,39.0597814531773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Jo_Daviess</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Jo Daviess County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.21257204591301,42.3657733865128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Livingston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Livingston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.5577310775866,40.891567057787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Morgan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Morgan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.2015190623039,39.7155692675266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Brown</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Brown County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.75027693300871,39.9618334995428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Douglas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Douglas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.2173671976407,39.7694422020001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Macon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Macon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.9615778141478,39.8599922017252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Macoupin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Macoupin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.92446817061079,39.2610195728792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_St_Clair</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">St. Clair County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.9283565969538,38.4702979419855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Alexander</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Alexander County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.3374455590951,37.1915438633589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Bond</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Bond County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.4355614591864,38.8868485958443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Randolph</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Randolph County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.8251676428426,38.0521238536487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Wabash</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Wabash County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.8444262893078,38.4460598212405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Crawford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Crawford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.7596408327301,39.0027391794993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Massac</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Massac County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.707535888717,37.218875438308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Pulaski</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Pulaski County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.1263997512691,37.2232186976643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Richland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Richland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.0851641216268,38.7124269777731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Schuyler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Schuyler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.61502378475799,40.1580679341757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Clinton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Clinton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.4225567757279,38.6064980135592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Monroe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Monroe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.1772920214139,38.2785332976853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Mercer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Mercer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.74144087992458,41.2053336611309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Montgomery</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Montgomery County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.4788712917711,39.2310285877931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Rock_Island</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Rock Island County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.5673247042858,41.4673767215637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Menard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Menard County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.80207371857421,40.027427766251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Ogle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Ogle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.320708646535,42.0425740764819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Stark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Stark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.7974743586182,41.0933667079036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_White</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">White County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.17958212243271,38.0874818246866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Sangamon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Sangamon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.6588903938309,39.7581537166341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Adams</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Adams County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.18852327544111,39.987890459144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Boone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Boone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.8233683361973,42.323073874499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Edwards</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Edwards County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.05339211748429,38.4165380794072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Knox</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Knox County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.21323589455081,40.9318139992888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Bureau</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Bureau County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.52865859414371,41.4041277886478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Henderson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Henderson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.92512501051418,40.8180226728229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.9239887491045,38.3005285555502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Calhoun</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Calhoun County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.66757092025621,39.1693319392564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Cook</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Cook County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.8168198125404,41.8401167642562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Grundy</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Grundy County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.4184905409369,41.2851039424111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Hardin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Hardin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.26686521741441,37.5181656785793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Logan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Logan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.367522003582,40.1245345553125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Johnson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Johnson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.88097519644229,37.4596373281353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Lawrence</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Lawrence County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.7267735305325,38.7199555299816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Warren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Warren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.61501660959929,40.8487983199276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Whiteside</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Whiteside County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.9140635238805,41.7562348198951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Woodford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Woodford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.2113223088669,40.788250501121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Carroll</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Carroll County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.9342665746897,42.0687231361351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Cumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Cumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.24022990599001,39.273341748028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Hancock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Hancock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.1646949739787,40.4037353985597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Kendall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Kendall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.42877678492189,41.5905757136174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Mason</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Mason County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.916823412152,40.2396196435863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Fulton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Fulton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.20747405792871,40.4727722653059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_McHenry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">McHenry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.4523457143561,42.3244237285452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Moultrie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Moultrie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.619299918105,39.6414602035129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Winnebago</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Winnebago County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.1608535141922,42.3362683701417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Edgar</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Edgar County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.7456103303562,39.6785639640665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Greene</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Greene County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.3905227545031,39.3561311955663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Lake</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Lake County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.0036432474833,42.3233565564647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Marshall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Marshall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.3447929165862,41.0331386114491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Perry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Perry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.36695078019029,38.0837267522356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Tazewell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Tazewell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.51344302237629,40.5075039583065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IL_County_Marion</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Illinois</SimpleData>
+					<SimpleData name="County">Marion County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.91900735249069,38.6495975498443,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Virginia County Names</name>
+    <description>Virginia County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>VA_County_Floyd</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Floyd County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.36253157873711,36.9316130463931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_King_and_Queen</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">King and Queen County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.8952968503678,37.7186342181019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_York</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">York County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.5634276003814,37.2430203093773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Roanoke_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Roanoke city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.958032567145,37.2784534406246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Craig</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Craig County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.2114600988408,37.4816618768167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_King_William</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">King William County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.0884622932227,37.7066542353712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Franklin_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Franklin city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.9383467133959,36.6830258418634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Virginia_Beach_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Virginia Beach city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.043507817387,36.7335362829317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Charles_City</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Charles City County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.06219552492369,37.3567142689948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Nottoway</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Nottoway County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.0512453345834,37.1430449424452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Manassas_Park_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Manassas Park city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.4430556501592,38.7705934342547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Brunswick</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Brunswick County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.85901484146039,36.7648088674672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_James_City</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">James City County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.7789248719548,37.3290442473045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Mecklenburg</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Mecklenburg County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.3628003312616,36.6803182418657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Amelia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Amelia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.9761708091996,37.3359757853322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Bedford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Bedford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.5242068025283,37.3151106126492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Caroline</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Caroline County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.3471528393784,38.0267274532389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Carroll</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Carroll County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.7338845230589,36.7315796004079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Chesterfield</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Chesterfield County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.58687229649949,37.3785413463662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Dickenson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Dickenson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.3503610534944,37.125773162158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Prince_George</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Prince George County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.22423102772019,37.1864822132452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.959886149474,36.7244383483357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Stafford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Stafford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.4579366454917,38.4207273854858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Alexandria_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Alexandria city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.0860304638861,38.8184598841126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Emporia_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Emporia city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.53569674155619,36.6951868990063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Poquoson_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Poquoson city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.35684326859069,37.1309429939973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Bland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Bland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.13024564634701,37.1339707527129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Prince_William</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Prince William County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.4809279917333,38.7029073913422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Salem_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Salem city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0553020772392,37.2862189163199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Suffolk_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Suffolk city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.63980237588849,36.6952953375284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Appomattox</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Appomattox County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.8126070190195,37.3723329234324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Montgomery</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Montgomery County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.38717675392461,37.1743257201015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Orange</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Orange County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.0140272332829,38.2461369001419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Rockbridge</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Rockbridge County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.44727127333761,37.8144454393618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Hopewell_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Hopewell city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.29849039124301,37.2915266985001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Radford_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Radford city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.55888309908281,37.1228638918401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Richmond_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Richmond city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.47568482302189,37.5294804359657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Buchanan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Buchanan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.03602167123501,37.2666534591784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Pittsylvania</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Pittsylvania County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.3970755157769,36.8212640381089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Wythe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Wythe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.07872051569009,36.917079213917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Botetourt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Botetourt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.8123586039333,37.5571074665874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Dinwiddie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Dinwiddie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.632263290916,37.0759422720605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Fluvanna</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Fluvanna County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2772852279476,37.841928207978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.88099366439501,36.9919506514641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Greene</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Greene County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.4668024329782,38.2975671756668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Greensville</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Greensville County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.5596009164868,36.6759326628105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Rockingham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Rockingham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.87569168784751,38.5120220466277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Cumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Cumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.244836680541,37.512279461519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Fauquier</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Fauquier County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.8091972299727,38.7386091555914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Frederick</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Frederick County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2626163547732,39.204627640107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Halifax</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Halifax County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.93667634171,36.7669165849248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Highland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Highland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.56858552047071,38.3623398865077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_New_Kent</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">New Kent County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.9975269834265,37.5052708929546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Shenandoah</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Shenandoah County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.5708596363242,38.8582785542437,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Sussex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Sussex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.26183365540641,36.9217425037889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Portsmouth_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Portsmouth city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.35536452253289,36.8453425077365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Augusta</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Augusta County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.1338536208621,38.1644402638299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Culpeper</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Culpeper County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.9558518676899,38.4860761089895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Essex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Essex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.9518654684837,37.9428550473815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Grayson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Grayson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.22494869484611,36.6565144256796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Spotsylvania</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Spotsylvania County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.6561183937043,38.1850844628226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Colonial_Heights_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Colonial Heights city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.3970411433675,37.2647474445375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Lynchburg_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Lynchburg city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.1908452233498,37.4002663542389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Bath</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Bath County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.7410493189375,38.0586838747652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Lee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Lee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.1285086227704,36.7054233720392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Roanoke</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Roanoke County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0680241180134,37.2692624692687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Charlottesville_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Charlottesville city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.48569031175469,38.0372093350822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Danville_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Danville city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.4085879321423,36.5830581750581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Fairfax_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Fairfax city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.299997219197,38.8532883608045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Gloucester</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Gloucester County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.5434199272411,37.4159326619596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Lancaster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Lancaster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.4633555564819,37.7345805146947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Loudoun</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Loudoun County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.6357414696249,39.0907144581693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Louisa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Louisa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.9630328235553,37.9786480660672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Patrick</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Patrick County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.28438548303851,36.6783278074703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Smyth</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Smyth County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.5369998323915,36.843737716456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Chesapeake_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Chesapeake city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.3022461563135,36.6778023845667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Alleghany</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Alleghany County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0062042343849,37.7877947430848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Arlington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Arlington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.1012116021526,38.8785358402098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Lexington_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Lexington city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.444319863,37.7823941081902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Waynesboro_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Waynesboro city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.9016977412048,38.0673669000103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Hanover</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Hanover County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.4908952829477,37.7600728069752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Middlesex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Middlesex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.5699698007974,37.6303038118143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Rappahannock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Rappahannock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.15919010304481,38.6848315883633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Falls_Church_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Falls Church city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.1746442691275,38.8842978695459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Harrisonburg_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Harrisonburg city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.8735274354043,38.4361449062983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Madison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Madison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2792223911754,38.4137852497838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Northampton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Northampton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.8771147935679,37.3440317807935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Powhatan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Powhatan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.9151697614034,37.5501527117493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Pulaski</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Pulaski County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.7144044038712,37.0635279059867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Norton_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Norton city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.6257834167326,36.9318758675299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Clarke</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Clarke County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.996731150795,39.112279050677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Nelson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Nelson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.8868402732449,37.7873723393297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Prince_Edward</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Prince Edward County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.4410117599996,37.224284078087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Wise</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Wise County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.6211411643218,36.9752758484789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Amherst</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Amherst County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.1451524915758,37.6048273644973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Campbell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Campbell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.0965433090708,37.205344018189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Giles</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Giles County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.7029180721885,37.314214627864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Williamsburg_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Williamsburg city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.70759997637749,37.2694001214203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Accomack</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Accomack County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.6331497506869,37.7643158437451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Lunenburg</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Lunenburg County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.24052999117021,36.9461861676044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Russell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Russell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.09534857948751,36.9338683671234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Southampton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Southampton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.1060526298136,36.7204568814771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Surry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Surry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.90027493400559,37.1098504108224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Tazewell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Tazewell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.5605670631563,37.1249310416297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Westmoreland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Westmoreland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.8042545619989,38.1119947979944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Covington_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Covington city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.9868917118045,37.7785023758762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Hampton_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Hampton city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.36319375231611,37.055639172395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Manassas_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Manassas city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.4837272235708,38.7478978973954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Winchester_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Winchester city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.1744926321014,39.1734314391571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Albemarle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Albemarle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.5567327248022,38.0228925487983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Isle_of_Wight</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Isle of Wight County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.7258783216608,36.8912599301418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Richmond</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Richmond County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.7251529876404,37.9426084013824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Scott</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Scott County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.6029453523457,36.7143028349375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Galax_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Galax city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.91775595691421,36.6661282378588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Norfolk_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Norfolk city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.2570185423882,36.8947315835015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Fairfax</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Fairfax County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.27697413279439,38.8367752054146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_King_George</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">King George County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.1571874533488,38.2733433703354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Bristol_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Bristol city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.16043240504411,36.6178949121927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Fredericksburg_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Fredericksburg city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.4871889088064,38.299125032481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Henrico</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Henrico County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.4057376697215,37.5379449113616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Henry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Henry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.8739951218496,36.6827880368507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Mathews</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Mathews County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.34378718796189,37.4352909352336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Warren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Warren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2084344099959,38.9087113490601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Buena_Vista_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Buena Vista city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.3570855062047,37.7319769841234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Petersburg_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Petersburg city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.3911189141751,37.2042623811617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Staunton_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Staunton city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.06113992746241,38.1592467018444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Goochland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Goochland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.915779367735,37.7220983859317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Northumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Northumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.41961510774151,37.8874208269793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Page</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Page County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.4843200679753,38.6194903339408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Martinsville_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Martinsville city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.8636680242173,36.6826112141535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Newport_News_city</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Newport News city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.51805023274071,37.1048334911371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Buckingham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Buckingham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.5287622348834,37.5721687113156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VA_County_Charlotte</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Virginia</SimpleData>
+					<SimpleData name="County">Charlotte County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.6616243172101,37.0116662048739,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

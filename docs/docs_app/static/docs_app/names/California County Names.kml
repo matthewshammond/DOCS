@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>California County Names</name>
+	<description>California County Names</description>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>CA_County_Butte</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Butte County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.600719397413,39.6669244395737,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Imperial</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Imperial County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-115.365348227126,33.0394942036446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_San_Diego</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">San Diego County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-116.735052053314,33.0342593535873,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_San_Luis_Obispo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">San Luis Obispo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.404319131306,35.3871091749375,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Tuolumne</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Tuolumne County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-119.95480495907,38.0276042866611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Alpine</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Alpine County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-119.820693175876,38.5972202514751,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Monterey</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Monterey County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.238759020798,36.2170701217609,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Sacramento</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Sacramento County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.344247328403,38.4492843933475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Trinity</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Trinity County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.112637082494,40.6506844919822,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Yolo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Yolo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.901126856962,38.6866289189192,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Amador</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Amador County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.651024230073,38.4463975717219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Kings</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Kings County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-119.815450706171,36.0752508985975,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Mono</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Mono County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.8868264626,37.9390981328314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Solano</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Solano County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.932869539324,38.2699969173657,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_San_Benito</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">San Benito County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.074956338046,36.6056914153321,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_San_Bernardino</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">San Bernardino County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-116.17845605487,34.8413826431976,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Lassen</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Lassen County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.594321853927,40.6735958840897,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Placer</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Placer County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.717660888471,39.0633838779876,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Kern</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Kern County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.730066888907,35.3426467514615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Lake</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Lake County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.753346217054,39.1000485188357,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_San_Francisco</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">San Francisco County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.444875039409,37.7555070535581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Tulare</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Tulare County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.800425355357,36.2201616422261,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Fresno</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Fresno County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-119.649265848926,36.7582300364567,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Mendocino</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Mendocino County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.391456660558,39.4402617195606,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Stanislaus</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Stanislaus County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.997683976422,37.5591389315028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Marin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Marin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.723566868906,38.0734637538379,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Contra_Costa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Contra Costa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.927529606935,37.9191471182895,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Modoc</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Modoc County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.72501113935,41.5898205231214,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Riverside</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Riverside County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-115.993808429527,33.7436515244454,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Del_Norte</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Del Norte County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.897235930373,41.7431224491129,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Sierra</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Sierra County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.516087171277,39.5803420643435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Alameda</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Alameda County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.888740613843,37.6468379372278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Nevada</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Nevada County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.768911535955,39.3012907810388,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_San_Mateo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">San Mateo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.329075239395,37.4227782183105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Mariposa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Mariposa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-119.905411217003,37.5815001634299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Shasta</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Shasta County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.040495406461,40.7637762684277,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Sonoma</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Sonoma County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.888189292473,38.5290103154768,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Siskiyou</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Siskiyou County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.540362720211,41.5926982599207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Colusa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Colusa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.236902719389,39.1774922856738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Inyo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Inyo County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-117.410694035027,36.5111157949858,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Yuba</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Yuba County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.351223740844,39.2690487509384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Calaveras</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Calaveras County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.554173348379,38.2045991214195,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Glenn</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Glenn County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.391978874793,39.5981430310132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Madera</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Madera County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-119.762592414186,37.2180523387067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Merced</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Merced County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.717662195117,37.1918821287458,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Plumas</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Plumas County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.83851565493,40.0046379782038,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_El_Dorado</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">El Dorado County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.524653792889,38.7786978234139,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Humboldt</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Humboldt County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.875607097311,40.6993031998421,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Tehama</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Tehama County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.234104154237,40.1255970728056,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Sutter</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Sutter County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.69483215893,39.0345367414229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Santa_Clara</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Santa Clara County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.695120992312,37.2317800876101,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Los_Angeles</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Los Angeles County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-118.224675426804,34.321916207979,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_San_Joaquin</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">San Joaquin County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-121.271444652238,37.9347399119254,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Ventura</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Ventura County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-119.083584795829,34.456063306907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Orange</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Orange County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-117.760929222248,33.7030590787256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Santa_Cruz</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Santa Cruz County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.00181043267,37.0562451985176,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Santa_Barbara</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Santa Barbara County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-120.016862253557,34.6729919345819,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CA_County_Napa</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#centroids">
+				<SimpleData name="State">California</SimpleData>
+				<SimpleData name="County">Napa County</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-122.330568926099,38.5069205339988,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

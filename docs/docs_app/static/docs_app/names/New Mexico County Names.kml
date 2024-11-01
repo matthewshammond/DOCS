@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>New Mexico County Names</name>
+    <description>New Mexico County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>NM_County_De_Baca</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">De Baca County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.411987873574,34.3424673290301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Socorro</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Socorro County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.930248017776,34.0071639302949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Sierra</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Sierra County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.192400769578,33.1304980270765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Torrance</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Torrance County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.850811488919,34.6404576229721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Chaves</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Chaves County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.466920621271,33.3632876973024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Colfax</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Colfax County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.646881655113,36.606148384343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Doña Ana</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Doña Ana County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.832783883112,32.3526493710217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Eddy</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Eddy County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.304374965532,32.4714133716172,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Curry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Curry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.34699565142,34.5742363317323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Cibola</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Cibola County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.999798379676,34.9124849108632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_McKinley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">McKinley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.261792885072,35.5806628729993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Quay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Quay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.549759896178,35.1043035722503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Otero</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Otero County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.741447348296,32.6131890000119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Bernalillo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Bernalillo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.670164612506,35.0513606824942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Luna</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Luna County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.749859099218,32.1822512688506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.382411416959,32.738887912725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Los_Alamos</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Los Alamos County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.307338850817,35.8692981923067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_San_Miguel</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">San Miguel County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.815807829948,35.4805081227118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Hidalgo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Hidalgo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.714781843352,31.9140327647949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Lea</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Lea County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.41247200406,32.7921010487613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Santa_Fe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Santa Fe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.976257395533,35.5069025367484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Catron</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Catron County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.404590184756,33.9152094036486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_San_Juan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">San Juan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.320633644408,36.5085100730732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Roosevelt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Roosevelt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.480050491038,34.0211693463052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Sandoval</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Sandoval County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.865921279583,35.6885935844204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Valencia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Valencia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.809011359966,34.715485527554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Harding</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Harding County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.820262332612,35.8579146790508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Taos</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Taos County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.631001493492,36.5782799397037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Union</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Union County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.471005801896,36.481600259937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Mora</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Mora County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.944919599384,36.0105274488701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Guadalupe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Guadalupe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.790656347216,34.8632949324463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.459286283916,33.7452967104555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NM_County_Rio_Arriba</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Mexico</SimpleData>
+					<SimpleData name="County">Rio Arriba County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.69313955976,36.5095810582229,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

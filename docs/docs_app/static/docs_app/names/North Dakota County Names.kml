@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>North Dakota County Names</name>
+    <description>North Dakota County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>ND_County_Dunn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Dunn County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.618235833611,47.3567881651617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Griggs</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Griggs County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.23697542182379,47.4572548010773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Pierce</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Pierce County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.9718271696177,48.2495908726709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Ward</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Ward County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.541812517375,48.2217016577989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Hettinger</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Hettinger County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.46026648158,46.4324871525522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_McKenzie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">McKenzie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.395309565638,47.7401795536311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Sioux</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Sioux County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.040556778476,46.1126263458433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Towner</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Towner County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.2457463817432,48.68554120771301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Billings</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Billings County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.37628201631,47.0236348224243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Walsh</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Walsh County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.72128680973751,48.3694460479465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_LaMoure</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">LaMoure County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.53544980653619,46.4568902205984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Ransom</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Ransom County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.65742446703048,46.4561476908716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Cass</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Cass County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.2478411589843,46.9330713563603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Eddy</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Eddy County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.90167451242139,47.71759496372089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Bowman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Bowman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.520640886206,46.1125962961336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Stark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Stark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.655069495919,46.8106707525525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Kidder</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Kidder County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.7800783197842,46.9800675971988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_McHenry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">McHenry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.636306119672,48.2345518771933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Rolette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Rolette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.84095768800502,48.7724440465363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Stutsman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Stutsman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.95883750476142,46.9792392240943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Emmons</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Emmons County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.238745510256,46.28506873208771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Dickey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Dickey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.50472655691262,46.1101759482111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Pembina</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Pembina County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.5517943913791,48.7674940555586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Richland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Richland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.9482254690983,46.26464319092759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Sargent</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Sargent County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.63058123147189,46.1078211132991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Adams</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Adams County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.528442832442,46.0968052958502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Foster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Foster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.8829662479577,47.4570602657174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Logan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Logan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.47736865869,46.4573342832444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Mountrail</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Mountrail County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.355690161837,48.2013224665584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Mercer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Mercer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.831489265891,47.309209856876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Nelson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Nelson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.1920314065336,47.9216472416124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Burke</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Burke County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.518212893917,48.7910071921752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Barnes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Barnes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.07154703099511,46.93609251170991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Oliver</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Oliver County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.340307249283,47.1152515284314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Slope</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Slope County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.459892582554,46.4472278162965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_McLean</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">McLean County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.321822148807,47.6069455784353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_McIntosh</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">McIntosh County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.44121061902959,46.11181820637759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Ramsey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Ramsey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.7201005482319,48.268894977039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Golden_Valley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Golden Valley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.846574422668,46.94021256683239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Traill</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Traill County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.16141150000108,47.45413433477181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Bottineau</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Bottineau County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.833286464529,48.7921726124269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Renville</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Renville County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.65778162485,48.719014835776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Benson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Benson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.366089764596,48.0693925478969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.639617250963,46.3583152289864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Wells</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Wells County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.66095801492008,47.58750236377151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Sheridan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Sheridan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.345582290315,47.575454861712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Williams</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Williams County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.480206718367,48.3436701028707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Cavalier</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Cavalier County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.46482085403279,48.7723373085902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Grand_Forks</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Grand Forks County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.4568613614114,47.92189033765051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Burleigh</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Burleigh County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.468704610926,46.9774566742719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Divide</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Divide County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.487213768879,48.8148981029174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Morton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Morton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.281101669734,46.7160563478704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND_County_Steele</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">North Dakota</SimpleData>
+					<SimpleData name="County">Steele County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.72463911216911,47.4561477240991,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

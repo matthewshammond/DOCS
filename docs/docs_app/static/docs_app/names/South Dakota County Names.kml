@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>South Dakota County Names</name>
+    <description>South Dakota County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>SD_County_Corson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Corson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.196891875687,45.7085965187488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Davison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Davison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.1459433043962,43.6747301343308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Deuel</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Deuel County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6680099495166,44.7600355755173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Lake</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Lake County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.12935415081539,44.0220545178115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7677056365666,45.1719160266031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Haakon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Haakon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.539944106946,44.2944667897031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Minnehaha</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Minnehaha County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7914547989939,43.6741494094285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Tripp</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Tripp County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.88393102408931,43.3459554033628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Bennett</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Bennett County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.664034357679,43.1949798022424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Hamlin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Hamlin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.18831132578769,44.6737628979016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Jones</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Jones County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.689727589194,43.9606257093795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Lyman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Lyman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.8473869739238,43.8958450443996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Ziebach</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Ziebach County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.665823419807,44.9804198138456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Brown</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Brown County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.3515989776877,45.58978907803459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Harding</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Harding County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.495829356148,45.58032975232721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Marshall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Marshall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.59865566387398,45.7585609819782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Potter</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Potter County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.95721662273741,45.06451994921321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Douglas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Douglas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.36606331951188,43.3869212426554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Todd</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Todd County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.718387585202,43.1933837026545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Beadle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Beadle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.2781250514973,44.4144697313758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Bon_Homme</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Bon Homme County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.88467992354259,42.9884591400651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Mellette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Mellette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.760012589399,43.5812744498917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Pennington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Pennington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.823782785843,44.0037270350863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Aurora</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Aurora County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.5615577932117,43.7179956973204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Charles_Mix</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Charles Mix County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.58796360488481,43.2079659416257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_McCook</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">McCook County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.3684402111698,43.6742985116802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Brule</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Brule County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.08093973457871,43.7180619392616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Dewey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Dewey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.871836325389,45.15664675119361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Gregory</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Gregory County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1856678279529,43.1924122616404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Hyde</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Hyde County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.4870672831149,44.5473287089758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Sully</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Sully County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.132211303274,44.7155782506676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Custer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Custer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.451529678951,43.6776289017939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Brookings</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Brookings County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.79045873645271,44.3696610370604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Faulk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Faulk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.14528522447,45.0710009436272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Perkins</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Perkins County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.475688553832,45.4904564258896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Hand</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Hand County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.00493337645889,44.5477804448089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Sanborn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Sanborn County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.091341678378,44.0234149899927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Spink</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Spink County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.34619337930388,44.9380131800316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Clay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Clay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.97563711523411,42.9146168508989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Miner</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Miner County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.61019408544841,44.0219390746989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Buffalo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Buffalo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20486306049952,44.0763098118518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Edmunds</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Edmunds County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.2152990337039,45.4187776372691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Lawrence</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Lawrence County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.792290606118,44.3586267147347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Moody</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Moody County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6708706801451,44.0219586344489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Campbell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Campbell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.051627864944,45.7711804035425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Hughes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Hughes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.9960224626726,44.3890419059039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Stanley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Stanley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.735921553638,44.412335883362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Union</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Union County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6560517089728,42.832477769388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Oglala_Lakota</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Oglala Lakota County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.551662327153,43.3355474260659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Fall_River</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Fall River County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.527527007092,43.2393668606339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.628119085976,43.694254725999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Jerauld</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Jerauld County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.62967218971021,44.0663217689778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Meade</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Meade County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.716870887554,44.566802312208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Roberts</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Roberts County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.9460989302613,45.6295747757608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Day</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Day County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.60742129831928,45.36713663715769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7218019874032,43.2788934526717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Codington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Codington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.1886442947258,44.9778507461173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Hutchinson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Hutchinson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.75440771186651,43.3348711734688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Turner</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Turner County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.14866347176842,43.310883564528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Hanson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Hanson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.78727254111219,43.674792958888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_McPherson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">McPherson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.22140910022462,45.7663977933286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Butte</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Butte County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.507926185402,44.9057841154388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Clark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Clark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.72949576667671,44.8582327200954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Kingsbury</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Kingsbury County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.4915067519845,44.3695941936634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Walworth</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Walworth County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.031523034643,45.42993509450941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SD_County_Yankton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">South Dakota</SimpleData>
+					<SimpleData name="County">Yankton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.39476826105749,43.0089846498098,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

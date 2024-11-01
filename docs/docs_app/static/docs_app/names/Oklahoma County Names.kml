@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oklahoma County Names</name>
+    <description>Oklahoma County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>OK_County_McIntosh</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">McIntosh County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.66681466387671,35.3736420712759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Comanche</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Comanche County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.4716647518524,34.6621146884078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Garfield</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Garfield County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.7827146981479,36.3790611762235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Murray</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Murray County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.0679159997606,34.4823296224474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Woodward</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Woodward County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.2651592196071,36.4226653186261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Cotton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Cotton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.37219738521021,34.2902130147834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Dewey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Dewey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.0078864314811,35.9876424703668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Okfuskee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Okfuskee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.3228499051331,35.4654443747161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Washita</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Washita County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.9922252358773,35.2903641586946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Logan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Logan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.44333922575511,35.919342661746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_McClain</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">McClain County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.44425432052341,35.0093018486421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Major</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Major County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.5359237871134,36.3116441655633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Pottawatomie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Pottawatomie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.9483811909874,35.2066528381226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Beaver</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Beaver County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.476790014312,36.7496489293694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Caddo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Caddo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.3751390830591,35.1744132327834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Haskell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Haskell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.1166465616075,35.2247922593563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Pawnee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Pawnee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69923410324841,36.3168811168948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Kiowa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Kiowa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.9808726191402,34.9163492816459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Marshall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Marshall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.76900457501399,34.0244756397817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Hughes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Hughes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.2501838358297,35.0483539002102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Johnston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Johnston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6605863123727,34.3165147695469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Love</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Love County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.24413962315872,33.9499143510634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Pontotoc</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Pontotoc County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68437888297639,34.7280554186734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Rogers</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Rogers County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.60433166833459,36.3715291079206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Custer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Custer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.001546249016,35.6388436228913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Muskogee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Muskogee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.3794575030952,35.6161136488464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Creek</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Creek County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.37084362636951,35.9025710405414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Nowata</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Nowata County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.61736628573691,36.7984691331154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Okmulgee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Okmulgee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.96428657715681,35.6465981181404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Canadian</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Canadian County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.9823593022324,35.54243894454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Cherokee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Cherokee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.99968168506,35.9066628881187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Harmon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Harmon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.8462401515943,34.7440824300253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Stephens</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Stephens County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.8515165047075,34.4855714517567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.83585713088119,34.1110591792084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Le_Flore</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Le Flore County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.70338576017832,34.9003084812364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Pittsburg</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Pittsburg County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.7483977497758,34.9238619784614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Ellis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Ellis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.7546470144722,36.2183602261031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Mayes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Mayes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.2307463957971,36.3019264703526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Cleveland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Cleveland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.326489407604,35.2030873897199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Garvin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Garvin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.3093401635799,34.7045788186727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.4148401848647,34.5879487948519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Oklahoma</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Oklahoma County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.4072442579504,35.55150803569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Alfalfa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Alfalfa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.3239983049498,36.7310493286086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.7861094046572,36.796131465839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Osage</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Osage County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.39843939147592,36.6291596257572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Bryan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Bryan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.2597366442038,33.9622462518539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Roger_Mills</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Roger Mills County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.6957604650259,35.688307874705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Sequoyah</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Sequoyah County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.7552080659536,35.4953513844132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Blaine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Blaine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.4334342498108,35.8751814293908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Latimer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Latimer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.25037105961502,34.8760314185558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Craig</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Craig County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.20845528549019,36.7617614098143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Grady</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Grady County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.88412627699471,35.0169384736772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Pushmataha</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Pushmataha County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.3758582283143,34.4161646057927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Wagoner</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Wagoner County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.5212189149769,35.9610606822052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Cimarron</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Cimarron County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.517755131675,36.7482660202761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Woods</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Woods County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.8650972633761,36.7669404430476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Adair</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Adair County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.65872628398429,35.88394348388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Choctaw</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Choctaw County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.55221000722442,34.0266185698564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Greer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Greer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.5607759083111,34.9357472429088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Harper</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Harper County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.66731777476241,36.7887745808034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Noble</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Noble County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.23049235248311,36.3886144282615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Texas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Texas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.490114120686,36.7479054051016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Delaware</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Delaware County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.80260499129921,36.4082433854499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Ottawa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Ottawa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.8104027537215,36.8355038922453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Seminole</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Seminole County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.61548190987719,35.1674714918325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Tulsa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Tulsa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.9414552465343,36.1211320093306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Atoka</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Atoka County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.0378400638365,34.3736478987126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.88090301028669,35.7029440451608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Payne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Payne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.97565009914851,36.0772782009927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Tillman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Tillman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.92421062224,34.3728547447013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.9043619088056,36.7152419520016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Beckham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Beckham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.68198649686971,35.2687122724124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Carter</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Carter County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.28575422285139,34.2508623261807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Kay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Kay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.14390613536729,36.8180066909927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Kingfisher</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Kingfisher County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.9420979813613,35.9453913632165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_McCurtain</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">McCurtain County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.77133192805969,34.1154403704936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OK_County_Coal</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oklahoma</SimpleData>
+					<SimpleData name="County">Coal County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.29775763586662,34.5882045118674,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

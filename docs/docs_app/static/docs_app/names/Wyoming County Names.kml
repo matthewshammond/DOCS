@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Wyoming County Names</name>
+    <description>Wyoming County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>WY_County_Converse</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Converse County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.507182647471,42.9723275506597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Uinta</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Uinta County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.54762916008,41.2876423624237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Goshen</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Goshen County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.353321293944,42.0878864222016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.65604810432,42.2639819716953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Laramie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Laramie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.689547003956,41.3070046534485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Platte</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Platte County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.965891402202,42.1331334754919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Albany</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Albany County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.723786322296,41.6545680185775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Big_Horn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Big Horn County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.995182574966,44.5266771821481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Sheridan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Sheridan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.879281439651,44.7899748105251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Hot_Springs</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Hot Springs County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.442133097724,43.7189588119924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Washakie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Washakie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.68279868882,43.9049737718955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Weston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Weston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.567656591253,43.8404086873536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Carbon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Carbon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.930574304582,41.694436297071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Fremont</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Fremont County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.630446294899,43.0405317792565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Sweetwater</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Sweetwater County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.879578599829,41.6595382420059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Campbell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Campbell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.548200979872,44.2481831978714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Teton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Teton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.589807755212,43.9346121021483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Niobrara</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Niobrara County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.47540772211,43.0564318163977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Park</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Park County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-109.587926985797,44.5204567577059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Sublette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Sublette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-109.914722312088,42.7668480047563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Natrona</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Natrona County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.798612381214,42.9621708042333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Crook</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Crook County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.569930775678,44.5885002301691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WY_County_Johnson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Wyoming</SimpleData>
+					<SimpleData name="County">Johnson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.584677291888,44.0388052231418,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Minnesota County Names</name>
+    <description>Minnesota County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>MN_County_Wadena</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Wadena County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.9694129115781,46.5857534791893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Cook</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Cook County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.53541359462659,47.9025499474675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Koochiching</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Koochiching County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.78338982789479,48.2453477717923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Martin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Martin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.55107678736128,43.6743402650495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Pennington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Pennington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.0367243827606,48.06623662250271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_St_Louis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">St. Louis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.47072237150022,47.6031282095913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Waseca</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Waseca County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.5872593903776,44.0221076985187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Big_Stone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Big Stone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.41095550794741,45.42608901076359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Watonwan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Watonwan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.61407281429931,43.9784318638381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Dakota</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Dakota County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.06544460985708,44.6718712886941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Kanabec</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Kanabec County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.2934049014504,45.9452213923351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Carlton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Carlton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.67702759669321,46.59235081541559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Becker</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Becker County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.6739572430818,46.9346310785483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Clay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Clay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.49052999353339,46.89223393582889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Clearwater</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Clearwater County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.37899045089111,47.57766674856341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Hubbard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Hubbard County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.9166491771684,47.1086230304191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Lake_of_the_Woods</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Lake of the Woods County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.9045732885039,48.7712356650603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Nicollet</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Nicollet County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.2474548637711,44.3497823856311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Otter_Tail</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Otter Tail County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.70802274572338,46.40881772562039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Pine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Pine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.74135407103191,46.1207290416275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Red_Lake</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Red Lake County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.09530113432839,47.8716906715643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Cottonwood</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Cottonwood County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.1812011760654,44.0071140668105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.01215745940451,45.9340408913411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_McLeod</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">McLeod County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.2724262360216,44.8235682004393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Renville</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Renville County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.9471598034083,44.7267908076471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Anoka</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Anoka County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.2464516760556,45.2732774105796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Cass</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Cass County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.32536563599869,46.9496019846036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Winona</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Winona County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.77920214267689,43.9868478336391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Isanti</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Isanti County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.2951763081654,45.5615077794273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Redwood</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Redwood County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.25387560713111,44.4036359659257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Steele</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Steele County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.2260866351246,44.0223252880779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Scott</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Scott County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.53584061331119,44.6484841794118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Sibley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Sibley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.23216595510721,44.579495412304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Stearns</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Stearns County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.61314619788011,45.5521433575058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Kandiyohi</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Kandiyohi County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.0047134771856,45.15237946540789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Crow_Wing</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Crow Wing County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.07089388711501,46.4824779783536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Mille_Lacs</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Mille Lacs County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.63007444366571,45.93804080490491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Mower</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Mower County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.75246814446989,43.6714904095828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Chisago</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Chisago County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.9083567498181,45.5024470160183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Douglas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Douglas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.4535078499911,45.9337494381542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Mahnomen</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Mahnomen County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.8090544519237,47.32524686606541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Rock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Rock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.25318377600522,43.6746498525816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Houston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Houston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.49288805651651,43.6714355426463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Kittson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Kittson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.78282721151599,48.7766229438779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Carver</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Carver County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.80255833808589,44.8206835992031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Itasca</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Itasca County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.6319445710262,47.50950115701951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Swift</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Swift County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.68146820771598,45.2827104231839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Blue_Earth</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Blue Earth County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.0669899608646,44.034517340948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Goodhue</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Goodhue County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.72285033166898,44.4097062575006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Beltrami</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Beltrami County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.93765063338719,47.97376496330421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Chippewa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Chippewa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.56675259203401,45.0223557876127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Dodge</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Dodge County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.86209936993501,44.0225969168807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Faribault</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Faribault County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.94800579472128,43.6739365671832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Freeborn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Freeborn County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.34881300408931,43.673830242291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Hennepin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Hennepin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.47694957751951,45.0045514826267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Lake</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Lake County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.4457938028566,47.6410820027118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Lyon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Lyon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.83897581363848,44.4135070179745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Nobles</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Nobles County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.75337472393331,43.6742526169506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Wabasha</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Wabasha County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.2302771566584,44.2843021256657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Murray</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Murray County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.76330778129359,44.0221397561717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Norman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Norman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.4549751865041,47.32652458791989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Olmsted</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Olmsted County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.40178343163142,44.0037780830611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Rice</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Rice County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.2966976613268,44.354252905537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Wright</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Wright County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.9630336140161,45.1739853761422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Meeker</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Meeker County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.527322324831,45.12311643942681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Polk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Polk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.40172716489128,47.7738556691685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Fillmore</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Fillmore County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.09015904375109,43.6739984389585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Pipestone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Pipestone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.25864914237721,44.0229989967549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Pope</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Pope County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.4445252821514,45.5860112818972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Ramsey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Ramsey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.0995481918341,45.017137997914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Roseau</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Roseau County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.81084332394521,48.7751118698878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Sherburne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Sherburne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.77475903107239,45.4439793929842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Todd</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Todd County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.89757092794142,46.0706229302037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.26712339959658,44.4125995769914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Traverse</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Traverse County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.47158520657641,45.77217897174489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Lac_qui_Parle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Lac qui Parle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.1735367081432,44.9954448626856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Marshall</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Marshall County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.368471145003,48.35810678573021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Morrison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Morrison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.2683681778712,46.0126024897025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Wilkin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Wilkin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.46820528178679,46.3569939837175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Yellow_Medicine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Yellow Medicine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.8683951548896,44.716237083463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Aitkin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Aitkin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.4155176397002,46.6081748961444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Brown</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Brown County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.7277031898287,44.2421043272923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.15410528938001,43.6741891158551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Le_Sueur</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Le Sueur County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.73017081749188,44.3714080170111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.8837336968635,45.0387764363593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Benton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Benton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.99884849071481,45.6990903588083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MN_County_Stevens</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Minnesota</SimpleData>
+					<SimpleData name="County">Stevens County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.00028196860571,45.5861287134943,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

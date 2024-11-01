@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>New Jersey County Names</name>
+    <description>New Jersey County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>NJ_County_Hunterdon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Hunterdon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.9122137356198,40.5673030111594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Salem</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Salem County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.34910388826231,39.5876722586825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Somerset</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Somerset County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.6164177581245,40.5634221331166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Cape_May</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Cape May County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.8005461054746,39.1495127927287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Mercer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Mercer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.7017858999684,40.2834363598386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Warren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Warren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.9972992317513,40.8571388506773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Union</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Union County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.3099896452522,40.6600974671759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Passaic</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Passaic County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.30091188931171,41.0343580684732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Burlington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Burlington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.6680634530655,39.8777253975891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Gloucester</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Gloucester County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.1413335846938,39.7172378644756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Ocean</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Ocean County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.28145578367359,39.8855984725049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Atlantic</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Atlantic County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.6612666942958,39.4778219456965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Cumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Cumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.11071117911651,39.373912832186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Essex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Essex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.2481507240572,40.7880556571361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Middlesex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Middlesex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.4117033572698,40.4391710413845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Bergen</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Bergen County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.0741880394591,40.9596150925315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Hudson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Hudson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.0751024110874,40.7407919063695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Sussex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Sussex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.6908954618404,41.1392456636545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Morris</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Morris County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.54456103773811,40.8619187479474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Camden</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Camden County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.9597282148102,39.8034985740272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NJ_County_Monmouth</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New Jersey</SimpleData>
+					<SimpleData name="County">Monmouth County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.22159351077021,40.2600219709744,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

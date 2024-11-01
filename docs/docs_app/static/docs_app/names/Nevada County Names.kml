@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Nevada County Names</name>
+    <description>Nevada County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>NV_County_Lander</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Lander County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.038113758559,39.9335313439229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Carson_City</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Carson City</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.747578523125,39.1511319514939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Douglas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Douglas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.616196704448,38.9122671216851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Washoe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Washoe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.664330647419,40.6655134405777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.87752807915,37.6433068491855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Storey</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Storey County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.529457190716,39.4469540696385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Churchill</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Churchill County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.335749957698,39.5808949752122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Lyon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Lyon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.189013508688,39.0206697003771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Mineral</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Mineral County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.434930931093,38.5385592027618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Elko</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Elko County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.357728107807,41.1457657811737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Esmeralda</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Esmeralda County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.632281335325,37.7846167742577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Nye</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Nye County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.471797360766,38.0422162845447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Pershing</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Pershing County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.404418256624,40.4404113507566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_White_Pine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">White Pine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.901630756379,39.4421667831177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Clark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Clark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.013506634828,36.2151864733263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Eureka</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Eureka County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.268578454925,39.9838680176699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NV_County_Humboldt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Nevada</SimpleData>
+					<SimpleData name="County">Humboldt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.111993138822,41.4068402033583,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

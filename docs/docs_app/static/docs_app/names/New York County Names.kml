@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>New York County Names</name>
+    <description>New York County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>NY_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.9202567515688,44.049591318236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Orleans</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Orleans County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2312179364281,43.2520974393325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Genesee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Genesee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.1937491789588,43.000937726265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Cattaraugus</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Cattaraugus County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.6788356688959,42.2485943299787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Chenango</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Chenango County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.61156149452199,42.4935255280997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Fulton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Fulton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.42224187317051,43.1138337964463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Monroe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Monroe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.6961172261154,43.14646104661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Schenectady</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Schenectady County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.0585600932545,42.8181292995241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Tioga</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Tioga County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.30628332975,42.1703391539791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.0294124992882,43.1565442482742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Westchester</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Westchester County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.756102942528,41.1626521527222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Rockland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Rockland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.02423213239049,41.1525286747566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Dutchess</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Dutchess County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.74286928699939,41.7651696410629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Oneida</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Oneida County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.43582060547899,43.2417545109937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Putnam</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Putnam County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.74948516368561,41.4267145689035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Ulster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Ulster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.2585683959251,41.8881463240809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Schoharie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Schoharie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.4421113091377,42.5882079586615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_New_York</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">New York County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.9667046867236,40.7793995637935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.430761533405,43.3136577522658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Yates</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Yates County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.10546086760981,42.6334652827416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Allegany</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Allegany County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.0275781480388,42.2574280645723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.3038298209686,44.5928658140874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Greene</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Greene County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.12278199509861,42.2765047785358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Montgomery</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Montgomery County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.4396732710068,42.9022897266939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Sullivan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Sullivan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.7680904047499,41.7164457040114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Madison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Madison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.6696298391964,42.9127178581053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Warren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Warren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.8459685306283,43.5609711852499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Albany</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Albany County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.97355244227749,42.600178610517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Steuben</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Steuben County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.3837756699358,42.2678101201801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Herkimer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Herkimer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.9623724969446,43.4192703754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Nassau</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Nassau County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.58622928991301,40.73265415451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Bronx</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Bronx County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.8675226312176,40.8500727518959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Chautauqua</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Chautauqua County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.36632542239001,42.2281345155991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Ontario</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Ontario County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.29978586246111,42.8528431007044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Rensselaer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Rensselaer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.50971517320259,42.7110609687128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Delaware</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Delaware County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.9664954397212,42.1980753952692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Onondaga</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Onondaga County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.1946231928969,43.0057976740166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Niagara</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Niagara County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.74529847911229,43.2000871218967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Suffolk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Suffolk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.8458022142382,40.8680042491047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Richmond</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Richmond County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.1530627212461,40.5807187967102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Broome</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Broome County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.8195609931258,42.1602443829871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Clinton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Clinton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.67817879727041,44.7462097963911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Cortland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Cortland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.07030061831379,42.5950280876024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Saratoga</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Saratoga County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.8639070032759,43.1073834013305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Schuyler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Schuyler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.8751957607352,42.3938082242286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Chemung</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Chemung County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.7600403691137,42.1412711045436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Columbia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Columbia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.63181404404379,42.2500933150253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Hamilton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Hamilton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.4973715036266,43.6611202356045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Lewis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Lewis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.44865949090619,43.7850482358398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Orange</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Orange County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.3056381563492,41.4021615186362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Otsego</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Otsego County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.032547995382,42.6337575427552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Seneca</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Seneca County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.8237654587456,42.7809935408623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Kings</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Kings County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.9383683965622,40.6413112663436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Livingston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Livingston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.7754792673305,42.7280413193374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Oswego</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Oswego County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.1413296052381,43.4269204916303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Queens</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Queens County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.8195794607245,40.7034540031108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Tompkins</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Tompkins County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.47365128018301,42.4520187369981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Essex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Essex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.77261791743619,44.1171904483055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Erie</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Erie County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.7322492612296,42.7639370993415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_St_Lawrence</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">St. Lawrence County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.06908180597451,44.4963893538087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Cayuga</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Cayuga County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.554513052017,42.9175021795777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NY_County_Wyoming</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">New York</SimpleData>
+					<SimpleData name="County">Wyoming County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.2244263923856,42.7024248949844,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

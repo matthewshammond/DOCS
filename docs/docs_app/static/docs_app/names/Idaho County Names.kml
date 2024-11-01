@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Idaho County Names</name>
+    <description>Idaho County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>ID_County_Caribou</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Caribou County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.562240519032,42.7705096831174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Kootenai</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Kootenai County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.701818123196,47.6743762654672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Owyhee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Owyhee County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.169894786302,42.5814158489597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Minidoka</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Minidoka County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.637455518536,42.8543106610523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Twin_Falls</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Twin Falls County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.667156085638,42.3559546736418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Bingham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Bingham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.398080818218,43.2165495942555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.784740142098,44.4524217460831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.31129012573,43.820120044693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Lewis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Lewis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.426359457833,46.23705008146311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.813218282633,42.1810864038817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Boundary</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Boundary County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.462875677103,48.7668671340007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Clearwater</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Clearwater County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.656662291034,46.6736505158784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Power</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Power County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.840692233276,42.6936425762721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Lemhi</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Lemhi County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.933249001814,44.943294287183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Jerome</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Jerome County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.263945403032,42.6898739943446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Fremont</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Fremont County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.481923368066,44.2287877514655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Gem</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Gem County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.397497953511,44.0614751139521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Payette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Payette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.760841177374,44.0067549704229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Shoshone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Shoshone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.892335534912,47.35293498837479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Bannock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Bannock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.224609124589,42.6685528543043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Bonner</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Bonner County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.601076286824,48.3000418134082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Adams</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Adams County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.453785752822,44.8895451278021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Gooding</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Gooding County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.811551440098,42.9710431884098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Butte</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Butte County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.172051819426,43.7229365063722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Valley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Valley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.566322215717,44.7666217192135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Blaine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Blaine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.980157976019,43.411950666254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Bonneville</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Bonneville County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.614806684441,43.3877306671578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Madison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Madison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.65926914541,43.7841261520443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Cassia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Cassia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.600097486465,42.2838815803319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Elmore</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Elmore County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.469302193395,43.3539126628846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Ada</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Ada County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.2411593881,43.4510768661367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Camas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Camas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.805782981091,43.4633527180697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Teton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Teton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.207639324037,43.7594073954311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Benewah</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Benewah County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.658722488992,47.217576855061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Latah</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Latah County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.71166315825,46.8161924039355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Clark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Clark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.351223007191,44.2838985908552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Bear_Lake</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Bear Lake County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.329722078786,42.2848235937208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Oneida</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Oneida County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.539346143661,42.194995887269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Canyon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Canyon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.70930212134,43.6251285232407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.138274147756,43.0023725151415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Boise</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Boise County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.730289605842,43.9891284322536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Custer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Custer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.281763846125,44.2411564925163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Idaho</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Idaho County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.467537708983,45.8440838040482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ID_County_Nez_Perce</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Idaho</SimpleData>
+					<SimpleData name="County">Nez Perce County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.750244903671,46.3268141718177,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

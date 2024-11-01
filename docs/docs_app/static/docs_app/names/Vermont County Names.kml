@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Vermont County Names</name>
+    <description>Vermont County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>VT_County_Windsor</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Windsor County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.5861902449777,43.5798652512253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Rutland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Rutland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.0363422530821,43.5801471297241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.61476436030981,44.2735675222628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Bennington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Bennington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.0931599057614,43.0354213716822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.9130896434678,44.8576171427873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Grand_Isle</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Grand Isle County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.29486096736559,44.7979965187277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Orange</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Orange County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.3768400518658,44.0055856509772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Lamoille</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Lamoille County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.64181513916991,44.6070210500654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Caledonia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Caledonia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.1021522943369,44.4647371404763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Chittenden</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Chittenden County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.0812841615077,44.4610643508768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Windham</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Windham County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.7139867028562,42.9905730964538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Essex</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Essex County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.7359791892649,44.7275856996671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Addison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Addison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.1408091284458,44.0308722050577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VT_County_Orleans</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Vermont</SimpleData>
+					<SimpleData name="County">Orleans County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.24361928842031,44.8290150278162,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

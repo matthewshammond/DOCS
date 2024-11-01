@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Maine County Names</name>
+    <description>Maine County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>ME_County_Penobscot</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Penobscot County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.6494827698792,45.4006441451634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Hancock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Hancock County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.3581105782649,44.6656243091363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Aroostook</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Aroostook County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.59890505089901,46.6589150432064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.5434432961929,44.0666822501542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Androscoggin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Androscoggin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.2064296709783,44.1658148425453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Sagadahoc</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Sagadahoc County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.85457226462159,43.9599219005097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Kennebec</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Kennebec County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.7673004649296,44.4090892359277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Knox</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Knox County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.1696377993531,44.1416685996019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Waldo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Waldo County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.1454451561592,44.5028199046949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.44397816716069,44.9740057107449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.6287344337705,45.0312442622384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Piscataquis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Piscataquis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.28459648491349,45.8373612484784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Somerset</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Somerset County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.9588851421468,45.5139062346426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Oxford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Oxford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.7566175662438,44.4999196818065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_Cumberland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">Cumberland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.4001432149513,43.8467970322902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ME_County_York</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Maine</SimpleData>
+					<SimpleData name="County">York County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.7144441188871,43.4782195061414,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

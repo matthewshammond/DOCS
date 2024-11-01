@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Missouri County Names</name>
+    <description>Missouri County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>MO_County_Atchison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Atchison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.4280831316425,40.430796625257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Barry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Barry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.82903997050791,36.7098713052863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Gentry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Gentry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.4098884664766,40.2120743480854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Oregon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Oregon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.40331270829149,36.6866841952874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Ozark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Ozark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.44469939995689,36.6493085078805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Ste_Genevieve</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Ste. Genevieve County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.19442745722029,37.8944623997099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Cape_Girardeau</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Cape Girardeau County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.68448923303519,37.3839728502885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Scotland</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Scotland County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.14706128937202,40.4525955580085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Camden</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Camden County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.7660149859334,38.0269949203737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Wayne</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Wayne County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.4613990402886,37.1126219761275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Harrison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Harrison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.9920549407036,40.3546413590946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Stoddard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Stoddard County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.9443288449729,36.85564359153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Butler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Butler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.4064761364716,36.7163304710524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Howell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Howell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.88652810315941,36.7740168855591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.5377176783222,38.2610564743733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Lewis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Lewis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.72209305263901,40.0968749396164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Ralls</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Ralls County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.5220470082713,39.5276757527896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_St_Louis_City</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">St. Louis city</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.2450700095456,38.6358397175739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Bollinger</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Bollinger County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.02593016439489,37.3221797646594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Clark</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Clark County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.7383667734393,40.4103272429894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Crawford</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Crawford County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.303945127701,37.9763598473911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Dade</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Dade County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.85025172861899,37.4320627713798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Pemiscot</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Pemiscot County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.7854080939731,36.2113992198028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Madison</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Madison County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.3450208002062,37.4780477585518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Montgomery</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Montgomery County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.47022261282881,38.9414302279736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Pettis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Pettis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.2850988537306,38.7282854494007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Schuyler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Schuyler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.52095609103471,40.4702523542105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Buchanan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Buchanan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.80586962521541,39.6597721723876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Dallas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Dallas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.0236708152528,37.6804314234299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Lawrence</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Lawrence County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.832970176156,37.106375391465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Mercer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Mercer County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.5685621586974,40.4223179142197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Putnam</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Putnam County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.0161613567886,40.47891127219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Taney</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Taney County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.0411330872011,36.6547581627747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Henry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Henry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.79276764875661,38.3851883951731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Marion</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Marion County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.6224257008281,39.8059163614869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Miller</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Miller County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.4283641875504,38.2144881171558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Morgan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Morgan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.88599676694081,38.4237259327397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Reynolds</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Reynolds County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.96908483659401,37.3623242655325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Adair</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Adair County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.60070310319878,40.1905693603982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Randolph</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Randolph County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.4970855132453,39.4401097894032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Webster</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Webster County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.8758997392822,37.2808887775841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_St_Clair</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">St. Clair County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.7759583733387,38.0371978953193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Ray</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Ray County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.9899047889632,39.3523309733009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.87740743620381,37.9616935990117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Cass</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Cass County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.35488722395202,38.6469938964166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.3461566990474,39.0084711134771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Stone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Stone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.45597972704991,36.7469247302012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Andrew</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Andrew County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.80213835101679,39.9835359204121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Boone</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Boone County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.30967429809191,38.9905671128916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Dunklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Dunklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.0908519110469,36.2720444808367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Laclede</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Laclede County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.59035820321598,37.6582876950834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Pike</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Pike County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.1713773458374,39.3438348857394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Scott</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Scott County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.56858564701631,37.0530102218621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Carroll</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Carroll County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.505197323502,39.4269524708917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Douglas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Douglas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.4988031630149,36.932581462681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Linn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Linn County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.1071861184891,39.8701965445377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Maries</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Maries County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.92485693880688,38.1616432457512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Perry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Perry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.8243839308674,37.7071060554613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Pulaski</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Pulaski County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.20763553519591,37.8245815448731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Shannon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Shannon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.4004903740715,37.1573927026938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Texas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Texas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.96505775614079,37.3173016848538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Benton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Benton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.28792948858622,38.2948389808419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Gasconade</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Gasconade County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.507937237438,38.4408482823552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Moniteau</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Moniteau County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.5830919988941,38.632775144513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Phelps</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Phelps County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.79233844468881,37.8771745288436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Wright</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Wright County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.46872454201321,37.2701601626453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Audrain</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Audrain County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.84156496239329,39.2157296401855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Caldwell</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Caldwell County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.98271094640469,39.6557450404636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Howard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Howard County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.69628930106499,39.1425230095611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Ripley</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Ripley County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.86383189396049,36.6527954767928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Franklin</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Franklin County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.07497875577991,38.4111463497083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_St_Francois</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">St. Francois County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.4722808276786,37.8102595020946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_St_Louis</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">St. Louis County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.4434024693486,38.6406627912721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Callaway</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Callaway County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.9259949875853,38.8355043953211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_DeKalb</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">DeKalb County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.4047355783585,39.8931764201525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Polk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Polk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.4005485529234,37.6164997705305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Clay</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Clay County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.42088330169288,39.3105291338868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Clinton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Clinton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.40458280337889,39.601757885172,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_McDonald</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">McDonald County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.34832849744922,36.6286723699436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_St_Charles</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">St. Charles County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.67487085422928,38.7819759338048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Barton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Barton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.34711927242742,37.5023104793365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Cooper</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Cooper County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.8101249372166,38.843558609667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Grundy</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Grundy County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.56534732289549,40.1139244481609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Livingston</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Livingston County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.5482190560825,39.7820848684544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Cedar</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Cedar County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.85659212355289,37.7238626842618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Chariton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Chariton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.96261060826809,39.5150619448748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Daviess</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Daviess County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.9854802720171,39.9607473935897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Dent</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Dent County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.50793047312848,37.6066316976494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Greene</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Greene County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.3419954015536,37.2580684655969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Hickory</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Hickory County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.32071951381869,37.9407914555974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Knox</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Knox County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.14807423247768,40.1282381821623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Newton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Newton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.33925589406718,36.905484431217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Saline</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Saline County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.2018577187732,39.1368176098564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Bates</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Bates County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.33999673755579,38.2572565320025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Carter</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Carter County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.9623247449281,36.9412344448493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Vernon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Vernon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.34246224130071,37.8505526015182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Johnson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Johnson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.8064250973887,38.7440701145292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Warren</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Warren County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.1606703321617,38.7646400524516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Holt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Holt County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.21558724591721,40.0944053528479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Lafayette</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Lafayette County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.7854862491606,39.0655088873963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Shelby</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Shelby County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.0765692430943,39.7977625454457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Monroe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Monroe County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.00075407509719,39.4954322187301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Nodaway</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Nodaway County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.88346608402182,40.3607347615527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Platte</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Platte County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.77378353374,39.3802741688194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Sullivan</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Sullivan County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.11150516788041,40.2105995034925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Cole</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Cole County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.281709825091,38.5054256954025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Iron</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Iron County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.7734499662903,37.5551464755917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Jasper</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Jasper County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.34060080166539,37.2035478737697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Macon</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Macon County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.56460871032772,39.830776092682,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Worth</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Worth County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.4221195133853,40.4791043947337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Christian</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Christian County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.18884681770869,36.9695721659048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.9600322275098,39.0580253275883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Mississippi</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Mississippi County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.2911478340318,36.8280632189284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_New_Madrid</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">New Madrid County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.6517319888104,36.5946387786453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MO_County_Osage</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Missouri</SimpleData>
+					<SimpleData name="County">Osage County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.86185866054841,38.4603745250417,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oregon County Names</name>
+    <description>Oregon County Names</description>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>OR_County_Clatsop</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Clatsop County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.655733310067,45.9949278316383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Clackamas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Clackamas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.220756159043,45.1880074801251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Linn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Linn County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.534322584583,44.4886849050408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Union</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Union County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.008824496814,45.3102192429573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Wallowa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Wallowa County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.181034348995,45.5798701470091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Tillamook</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Tillamook County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.712560963308,45.4636417077443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Hood_River</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Hood River County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.651109257649,45.51901880728259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Jackson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Jackson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.72847235662,42.4321759819693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Multnomah</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Multnomah County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414792703065,45.5467927513703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Crook</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Crook County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.356594591014,44.1421956826005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Lake</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Lake County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.387366546346,42.7934946701286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Washington</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Washington County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.098373169406,45.5600704565143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Morrow</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Morrow County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.584374451503,45.4189574088628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Grant</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Grant County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.007320042605,44.4915396114355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Harney</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Harney County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.967967534778,43.0641296942352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Jefferson</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Jefferson County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.17605610998,44.629393498365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Polk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Polk County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.413206717526,44.9035368188138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Umatilla</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Umatilla County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.736876343122,45.5918825579235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Coos</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Coos County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.059413282216,43.1741960670888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Deschutes</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Deschutes County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.228154038053,43.9150534710302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Klamath</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Klamath County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.650049809927,42.6863343547075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Wheeler</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Wheeler County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.027517423802,44.7260093355941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Malheur</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Malheur County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.623149849148,43.1934091187262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Benton</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Benton County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.42927208355,44.4917770506779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Columbia</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Columbia County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.088290885702,45.9437919612267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Curry</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Curry County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.156759605268,42.4576256792986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Baker</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Baker County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.675307985578,44.7091515187886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Sherman</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Sherman County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.689435510386,45.4052708079351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Lane</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Lane County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.847953548437,43.9386547354367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Douglas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Douglas County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.166401560168,43.2796973448573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Gilliam</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Gilliam County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.210793173721,45.3782774878447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Josephine</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Josephine County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.555462129204,42.3654714409487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Wasco</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Wasco County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.167825942376,45.16000300797929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Lincoln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Lincoln County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.868221867762,44.6419697046827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Marion</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Marion County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.584640446053,44.9033655431895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OR_County_Yamhill</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#County_Names">
+					<SimpleData name="State">Oregon</SimpleData>
+					<SimpleData name="County">Yamhill County</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.3081170419,45.2326268030203,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>
